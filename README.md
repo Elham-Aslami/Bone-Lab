@@ -2,10 +2,6 @@
 
 An exam-focused browser app with an interactive anatomical skeleton, 104 study cards, identification practice, side identification, comparisons, and local progress.
 
-## Test before publishing
-
-Start with [TEST-BEFORE-DEPLOYING.md](TEST-BEFORE-DEPLOYING.md). The updated Explore viewer preserves rotation, zoom, and pan when a new structure is selected. Use **Focus** to center it without changing the angle, or **Use suggested angle** to request a recommended anatomical view. Your Explore view is restored after visiting another tab.
-
 ## Run on your device
 
 1. Extract the downloaded ZIP into a folder.
