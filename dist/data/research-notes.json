@@ -1,0 +1,73 @@
+{
+  "conceptCount": 104,
+  "axialCount": 46,
+  "appendicularCount": 58,
+  "normalization": [
+    "Paired left/right bones count once per named concept.",
+    "Auditory/acoustic and body/centrum synonyms count once.",
+    "Zygomatic process and entire zygomatic arch are separate concepts.",
+    "Sternal and acromial clavicular ends are separate concepts.",
+    "Medial and lateral femoral condyles are separate concepts.",
+    "Repeated names on different parent bones remain separate.",
+    "Manubrium and xiphoid process are tracked separately from the complete sternum."
+  ],
+  "pageConvention": "All source.pages are 1-based pages in the 61-page uploaded Top Hat export, not print textbook page numbers.",
+  "figureNumbering": "Some export captions conflict with nearby prose (lateral skull, scapula, forearm, pelvis). Those entries use page references and a null figure instead of inventing a corrected caption number.",
+  "corrections": [
+    {
+      "ids": [
+        "ulna",
+        "ulna-head"
+      ],
+      "labPages": [
+        48,
+        49
+      ],
+      "issue": "The lab claims a direct ulnar-head/lunate articulation and describes carpals as articulating with both radius and ulna.",
+      "used": "The distal ulna is separated from the carpals by fibrocartilaginous structures; its head articulates with the distal radius.",
+      "reference": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+    },
+    {
+      "ids": [
+        "thoracic-vertebrae"
+      ],
+      "labPages": [
+        38
+      ],
+      "issue": "The lab claims all thoracic vertebral foramina are approximately triangular.",
+      "used": "The card uses rib articulation and typical spinous-process shape; it does not teach a universal triangle rule. Typical thoracic foramina are generally circular.",
+      "reference": "https://www.imaios.com/en/e-anatomy/anatomical-structures/thoracic-vertebrae-1537018404"
+    },
+    {
+      "ids": [
+        "patella"
+      ],
+      "labPages": [
+        53
+      ],
+      "issue": "The uploaded chapter has minimal patellar description.",
+      "used": "Added anterior knee location, triangular shape, leverage function, and a qualified larger-lateral-facet side cue.",
+      "reference": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8981413/"
+    },
+    {
+      "ids": [
+        "calcaneus"
+      ],
+      "labPages": [
+        56,
+        57
+      ],
+      "issue": "The chapter identifies the heel bone but does not give a clear side-identification cue.",
+      "used": "Added a medial supporting-shelf cue from the OpenStax description.",
+      "reference": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+    }
+  ],
+  "geometry": "This dataset establishes vocabulary and study-card content only. It does not assert 3D mesh availability, exact landmark segmentation, label coordinates, or quiz coverage.",
+  "implementationNotes": [
+    "Hyoid is grouped under Skull for the requested fixed region enumeration, but its location field correctly states superior neck. Consider labeling that navigation region Skull & neck.",
+    "Cervical, thoracic, and lumbar vertebrae are bone-family concepts; atlas and axis are separate required concepts.",
+    "Jugular foramen, sutures, zygomatic arch, and bilateral pelvic joints are associated with multiple bones rather than incorrectly assigned to one parent.",
+    "Generic vertebral spinous process, transverse process, lamina, and body have null parentId to avoid adding an unapproved generic vertebra entry.",
+    "Keep exact parent qualifiers for all repeated names when grading typed answers."
+  ]
+}

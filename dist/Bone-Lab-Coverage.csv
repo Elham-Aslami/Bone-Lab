@@ -1,0 +1,105 @@
+Exam term,Kind,3D representation,Model nodes,Study card,3D quiz,Lab PDF pages,Remaining limitation
+Frontal bone,Bone,mesh,Frontal bone,Yes,Yes,12; 13,
+Parietal bones,Bone,mesh,Parietal bone.l; Parietal bone.r,Yes,Yes,13; 15; 23; 24,
+Sagittal suture,Suture,reference,Parietal bone.l; Parietal bone.r,Yes,No,23; 24,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Coronal suture,Suture,reference,Frontal bone; Parietal bone.l; Parietal bone.r,Yes,No,15; 23; 24,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Lambdoid suture,Suture,reference,Occipital bone; Parietal bone.l; Parietal bone.r,Yes,No,15; 23; 24,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Squamous suture,Suture,reference,Parietal bone.l; Parietal bone.r; Temporal bone.l; Temporal bone.r,Yes,No,15; 16,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Temporal bones,Bone,mesh,Temporal bone.l; Temporal bone.r,Yes,Yes,15; 16; 18; 19,
+Zygomatic process of temporal bone,Marking,reference,Temporal bone.l; Temporal bone.r,Yes,No,15; 16,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Zygomatic arch,Region,reference,Temporal bone.l; Temporal bone.r; Zygomatic bone.l; Zygomatic bone.r,Yes,No,14; 15; 20,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Mandibular fossa,Marking,reference,Temporal bone.l; Temporal bone.r,Yes,No,15; 16; 19,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+External auditory meatus,Marking,reference,Temporal bone.l; Temporal bone.r,Yes,No,15; 16,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Styloid process of temporal bone,Marking,landmark,Temporal bone.r; Temporal bone.l,Yes,Yes,15; 19; 21,Source pin; not a separately segmented surface.
+Mastoid process,Marking,landmark,Temporal bone.r; Temporal bone.l,Yes,Yes,15; 16; 23,Source pin; not a separately segmented surface.
+Carotid canal,Marking,reference,Temporal bone.l; Temporal bone.r,Yes,No,19; 20; 21,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Jugular foramen,Marking,reference,Occipital bone; Temporal bone.l; Temporal bone.r,Yes,No,18; 19; 21,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Internal auditory (acoustic) meatus,Marking,reference,Temporal bone.l; Temporal bone.r,Yes,No,18; 19; 21; 22,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Occipital bone,Bone,mesh,Occipital bone,Yes,Yes,13; 18; 20; 23; 24,
+Foramen magnum,Marking,landmark,Occipital bone,Yes,Yes,18; 20; 21,Source pin; not a separately segmented surface.
+Occipital condyles,Marking,landmark,Occipital bone,Yes,Yes,20; 21,Source pin; not a separately segmented surface.
+Sphenoid bone,Bone,mesh,Sphenoid bone,Yes,Yes,13; 17; 18; 19,
+Sella turcica,Marking,landmark,Sphenoid bone,Yes,Yes,17; 19,Source pin; not a separately segmented surface.
+Optic canal,Marking,landmark,Sphenoid bone,Yes,Yes,17; 19,Source pin; not a separately segmented surface.
+Ethmoid bone,Bone,mesh,Ethmoid bone,Yes,Yes,13; 17; 25,
+Cribriform plate,Marking,reference,Ethmoid bone,Yes,No,17; 19; 25,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Maxillae,Bone,mesh,Maxilla.l; Maxilla.r,Yes,Yes,14; 20; 22,
+Mandible,Bone,mesh,Mandible,Yes,Yes,14; 16; 22,
+Coronoid process of mandible,Marking,reference,Mandible,Yes,No,16; 33,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Hyoid bone,Bone,mesh,Hyoid bone,Yes,Yes,40; 41; 42,
+Sternum,Bone,mesh,Body of sternum; Manubrium of sternum; Xiphoid process,Yes,Yes,40; 41,
+Manubrium,Marking,mesh,Manubrium of sternum,Yes,Yes,40; 41; 46,
+Xiphoid process,Marking,mesh,Xiphoid process,Yes,Yes,40; 41,
+Cervical vertebrae,Bone,mesh,Atlas (C1); Axis (C2); Vertebra C3; Vertebra C4; Vertebra C5; Vertebra C6; Vertebra C7,Yes,Yes,35; 36; 37,
+Thoracic vertebrae,Bone,mesh,Vertebra T1; Vertebra T2; Vertebra T3; Vertebra T4; Vertebra T5; Vertebra T6; Vertebra T7; Vertebra T8; Vertebra T9; Vertebra T10; Vertebra T11; Vertebra T12,Yes,Yes,37; 38,
+Lumbar vertebrae,Bone,mesh,Vertebra L1; Vertebra L2; Vertebra L3; Vertebra L4; Vertebra L5,Yes,Yes,39,
+Sacrum,Bone,mesh,Sacrum,Yes,Yes,39; 40,
+Coccyx,Bone,mesh,Coccyx,Yes,Yes,40,
+Atlas (C1),Bone,mesh,Atlas (C1),Yes,Yes,36; 37,
+Axis (C2),Bone,mesh,Axis (C2),Yes,Yes,36; 37,
+Dens of axis,Marking,landmark,Axis (C2),Yes,Yes,36; 37,Source pin; not a separately segmented surface.
+Transverse foramen,Marking,landmark,Vertebra C4,Yes,Yes,36; 37,Source pin; not a separately segmented surface.
+Spinous process of vertebra,Marking,landmark,Vertebra L3,Yes,Yes,35; 36; 37; 38; 39,Source pin; not a separately segmented surface.
+Transverse process of vertebra,Marking,landmark,Vertebra L3,Yes,Yes,35; 36; 37; 38,Source pin; not a separately segmented surface.
+Lamina of vertebra,Marking,landmark,Vertebra L3,Yes,Yes,36; 37,Source pin; not a separately segmented surface.
+Body of vertebra (centrum),Marking,landmark,Vertebra L3,Yes,Yes,35; 36; 37; 39,Source pin; not a separately segmented surface.
+Rib,Bone,mesh,Eighth rib.l; Eighth rib.r; Eleventh rib.l; Eleventh rib.r; Twelfth rib.l; Twelfth rib.r; Ninth rib.l; Ninth rib.r; Tenth rib.l; Tenth rib.r; Fifth rib.l; Fifth rib.r; First rib.l; First rib.r; Fourth rib.l; Fourth rib.r; Second rib.l; Second rib.r; Seventh rib.l; Seventh rib.r; Sixth rib.l; Sixth rib.r; Third rib.l; Third rib.r,Yes,Yes,41; 42,
+Costal groove,Marking,landmark,Sixth rib.r; Sixth rib.l,Yes,Yes,41; 42,Source pin; not a separately segmented surface.
+Scapula,Bone,mesh,Scapula.l; Scapula.r,Yes,Yes,43; 44; 45; 46,
+Glenoid cavity,Marking,landmark,Scapula.r; Scapula.l,Yes,Yes,43; 45,Source pin; not a separately segmented surface.
+Coracoid process,Marking,landmark,Scapula.r; Scapula.l,Yes,Yes,43; 44; 45,Source pin; not a separately segmented surface.
+Acromion,Marking,landmark,Scapula.r; Scapula.l,Yes,Yes,43; 45; 46,Source pin; not a separately segmented surface.
+Spine of scapula,Marking,landmark,Scapula.r; Scapula.l,Yes,Yes,43; 46,Source pin; not a separately segmented surface.
+Supraspinous fossa,Marking,landmark,Scapula.r; Scapula.l,Yes,Yes,43; 46,Source pin; not a separately segmented surface.
+Infraspinous fossa,Marking,landmark,Scapula.r; Scapula.l,Yes,Yes,43; 46,Source pin; not a separately segmented surface.
+Clavicle,Bone,mesh,Clavicle.l; Clavicle.r,Yes,Yes,46,
+Sternal end of clavicle,Marking,landmark,Clavicle.r; Clavicle.l,Yes,Yes,46,Source pin; not a separately segmented surface.
+Acromial end of clavicle,Marking,landmark,Clavicle.r; Clavicle.l,Yes,Yes,46,Source pin; not a separately segmented surface.
+Humerus,Bone,mesh,Humerus.l; Humerus.r,Yes,Yes,46; 47,
+Head of humerus,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47,Source pin; not a separately segmented surface.
+Greater tubercle of humerus,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47,Source pin; not a separately segmented surface.
+Lesser tubercle of humerus,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47,Source pin; not a separately segmented surface.
+Deltoid tuberosity,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47,Source pin; not a separately segmented surface.
+Trochlea of humerus,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47; 48,Source pin; not a separately segmented surface.
+Capitulum,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47; 48,Source pin; not a separately segmented surface.
+Olecranon fossa,Marking,landmark,Humerus.r; Humerus.l,Yes,Yes,47,Source pin; not a separately segmented surface.
+Ulna,Bone,mesh,Ulna.l; Ulna.r,Yes,Yes,48; 49,
+Olecranon process,Marking,landmark,Ulna.r; Ulna.l,Yes,Yes,48,Source pin; not a separately segmented surface.
+Coronoid process of ulna,Marking,landmark,Ulna.r; Ulna.l,Yes,Yes,48,Source pin; not a separately segmented surface.
+Trochlear notch,Marking,landmark,Ulna.r; Ulna.l,Yes,Yes,48,Source pin; not a separately segmented surface.
+Ulnar head,Marking,landmark,Ulna.r; Ulna.l,Yes,Yes,48; 49,Source pin; not a separately segmented surface.
+Styloid process of ulna,Marking,landmark,Ulna.r; Ulna.l,Yes,Yes,48; 49,Source pin; not a separately segmented surface.
+Radius,Bone,mesh,Radius.l; Radius.r,Yes,Yes,48; 49,
+Radial head,Marking,landmark,Radius.r; Radius.l,Yes,Yes,48; 49,Source pin; not a separately segmented surface.
+Radial tuberosity,Marking,landmark,Radius.r; Radius.l,Yes,Yes,49,Source pin; not a separately segmented surface.
+Styloid process of radius,Marking,landmark,Radius.r; Radius.l,Yes,Yes,49,Source pin; not a separately segmented surface.
+Pelvis,Region,mesh,Hip bone.l; Hip bone.r; Sacrum; Coccyx,Yes,Yes,50; 51,
+Sacroiliac joints,Joint,reference,Sacrum; Hip bone.l; Hip bone.r,Yes,No,39; 50; 51,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Coxal bone,Bone,mesh,Hip bone.l; Hip bone.r,Yes,Yes,50; 51,
+Acetabulum,Marking,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51,Source pin; not a separately segmented surface.
+Obturator foramen,Marking,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51,Source pin; not a separately segmented surface.
+Ilium,Bone,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51; 52,Source pin; not a separately segmented surface.
+Iliac crest,Marking,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51; 52,Source pin; not a separately segmented surface.
+Greater sciatic notch,Marking,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51; 52,Source pin; not a separately segmented surface.
+Ischium,Bone,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51; 52,Source pin; not a separately segmented surface.
+Ischial tuberosity,Marking,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51; 52,Source pin; not a separately segmented surface.
+Pubis,Bone,landmark,Hip bone.r; Hip bone.l,Yes,Yes,51; 52,Source pin; not a separately segmented surface.
+Pubic symphysis,Joint,reference,Hip bone.l; Hip bone.r,Yes,No,50; 51; 52,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Pubic arch,Region,reference,Hip bone.l; Hip bone.r,Yes,No,52; 53,No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking.
+Femur,Bone,mesh,Femur.l; Femur.r,Yes,Yes,53; 54; 55,
+Head of femur,Marking,landmark,Femur.r; Femur.l,Yes,Yes,53; 55,Source pin; not a separately segmented surface.
+Neck of femur,Marking,landmark,Femur.r; Femur.l,Yes,Yes,53; 54; 55,Source pin; not a separately segmented surface.
+Greater trochanter,Marking,landmark,Femur.r; Femur.l,Yes,Yes,54; 55,Source pin; not a separately segmented surface.
+Lesser trochanter,Marking,landmark,Femur.r; Femur.l,Yes,Yes,54; 55,Source pin; not a separately segmented surface.
+Gluteal tuberosity,Marking,landmark,Femur.r; Femur.l,Yes,Yes,54; 55,Source pin; not a separately segmented surface.
+Linea aspera,Marking,landmark,Femur.r; Femur.l,Yes,Yes,54; 55,Source pin; not a separately segmented surface.
+Medial condyle of femur,Marking,landmark,Femur.r; Femur.l,Yes,Yes,55,Source pin; not a separately segmented surface.
+Lateral condyle of femur,Marking,landmark,Femur.r; Femur.l,Yes,Yes,55,Source pin; not a separately segmented surface.
+Patella,Bone,mesh,Patella.l; Patella.r,Yes,Yes,53,
+Tibia,Bone,mesh,Tibia.l; Tibia.r,Yes,Yes,55; 56,
+Tibial tuberosity,Marking,landmark,Tibia.r; Tibia.l,Yes,Yes,55; 56,Source pin; not a separately segmented surface.
+Medial malleolus,Marking,landmark,Tibia.r; Tibia.l,Yes,Yes,55; 56,Source pin; not a separately segmented surface.
+Fibula,Bone,mesh,Fibula.l; Fibula.r,Yes,Yes,56,
+Head of fibula,Marking,landmark,Fibula.r; Fibula.l,Yes,Yes,56,Source pin; not a separately segmented surface.
+Lateral malleolus,Marking,landmark,Fibula.r; Fibula.l,Yes,Yes,56,Source pin; not a separately segmented surface.
+Calcaneus,Bone,mesh,Calcaneus.l; Calcaneus.r,Yes,Yes,56; 57,

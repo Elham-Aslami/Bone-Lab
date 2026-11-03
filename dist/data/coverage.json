@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "mesh": 32,
+    "landmark": 56,
+    "reference": 16
+  },
+  "terms": 104,
+  "sourceModelSHA256": "c2b70b31ddec4062cbc5ba969fc24ecfed61d00397a0bca795e2701d997200f8",
+  "landmarkSourceSHA256": "294a649765cd060a62a4095da52b9c8ef2d97769aa447e196448aa5f7d596dea",
+  "method": "Original Z-Anatomy FBX leader endpoints converted from local Z-up to glTF local Y-up. Each parent mesh bounding box matched before its landmarks were admitted. No invented points. Landmarks are pins, not segmented surface regions.",
+  "limitations": [
+    "Ilium, ischium and pubis have source pins but do not have separately segmented meshes.",
+    "Reference-only structures are excluded from scored 3D quizzes.",
+    "Find-the-structure questions use a small spatial neighborhood of source pins, not a complete segmented landmark surface."
+  ]
+}

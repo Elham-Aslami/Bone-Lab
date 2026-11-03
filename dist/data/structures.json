@@ -1,0 +1,3015 @@
+[
+  {
+    "id": "frontal",
+    "name": "Frontal bone",
+    "aliases": [
+      "frontal"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Forehead and front of the cranial vault.",
+    "clues": [
+      "Forms the forehead above the eyes.",
+      "Lies anterior to the coronal suture."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms part of the protective cranium and the roofs of the eye sockets.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        12,
+        13
+      ],
+      "figure": "8.4"
+    },
+    "paired": false
+  },
+  {
+    "id": "parietal",
+    "name": "Parietal bones",
+    "aliases": [
+      "parietal",
+      "parietal bone"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Paired bones of the roof and upper sides of the cranium.",
+    "clues": [
+      "Meet in the midline at the sagittal suture.",
+      "Lie between the frontal and occipital bones."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Form much of the cranial roof and side walls.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        13,
+        15,
+        23,
+        24
+      ],
+      "figure": "8.9–8.10"
+    },
+    "paired": true
+  },
+  {
+    "id": "sagittal-suture",
+    "name": "Sagittal suture",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Suture",
+    "parentId": null,
+    "location": "Midline junction between the right and left parietal bones.",
+    "clues": [
+      "Runs front to back along the top of the skull.",
+      "Separates the two parietal bones."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Joins the paired parietal bones.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        23,
+        24
+      ],
+      "figure": "8.10"
+    },
+    "paired": false
+  },
+  {
+    "id": "coronal-suture",
+    "name": "Coronal suture",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Suture",
+    "parentId": null,
+    "location": "Junction between the frontal bone and both parietal bones.",
+    "clues": [
+      "Runs across the skull behind the forehead.",
+      "Marks the front edge of the parietal bones."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Joins the frontal and parietal bones.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        23,
+        24
+      ],
+      "figure": "8.10"
+    },
+    "paired": false
+  },
+  {
+    "id": "lambdoid-suture",
+    "name": "Lambdoid suture",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Suture",
+    "parentId": null,
+    "location": "Posterior junction of the parietal bones with the occipital bone.",
+    "clues": [
+      "Look at the back of the skull.",
+      "Forms an inverted V-like boundary above the occipital bone."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Joins the parietal bones to the occipital bone.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        23,
+        24
+      ],
+      "figure": "8.9"
+    },
+    "paired": false
+  },
+  {
+    "id": "squamous-suture",
+    "name": "Squamous suture",
+    "aliases": [
+      "squamosal suture",
+      "squamous sutures"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Suture",
+    "parentId": null,
+    "location": "Lateral junction between a parietal bone and a temporal bone.",
+    "clues": [
+      "Arches above the ear region.",
+      "Separates the upper parietal bone from the temporal bone below."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Joins temporal and parietal bones.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        16
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "temporal",
+    "name": "Temporal bones",
+    "aliases": [
+      "temporal",
+      "temporal bone"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Lower lateral walls and part of the base of the cranium.",
+    "clues": [
+      "Surround the external ear openings.",
+      "Carry the mastoid and styloid processes."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Help form the cranial base and house structures of hearing and balance.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        16,
+        18,
+        19
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "zygomatic-process",
+    "name": "Zygomatic process of temporal bone",
+    "aliases": [
+      "zygomatic process",
+      "temporal zygomatic process"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Forward-projecting part of the temporal bone above the mandibular fossa.",
+    "clues": [
+      "A narrow projection extending toward the cheek.",
+      "Forms the posterior contribution to the zygomatic arch."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Contributes to the zygomatic arch.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        16
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "zygomatic-arch",
+    "name": "Zygomatic arch",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Region",
+    "parentId": null,
+    "location": "Bony bridge on the side of the face between the cheek and temporal region.",
+    "clues": [
+      "An arch above the side of the lower jaw.",
+      "The whole arch is larger than the temporal bone’s zygomatic process alone."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Forms the prominent bony arch of the cheek region.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        14,
+        15,
+        20
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "mandibular-fossa",
+    "name": "Mandibular fossa",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Depression on the temporal bone inferior to its zygomatic process.",
+    "clues": [
+      "A socket-like depression just anterior to the external auditory meatus.",
+      "Receives the upper joint surface of the mandible."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Articulates with the mandible at the jaw joint.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        16,
+        19
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "external-auditory-meatus",
+    "name": "External auditory meatus",
+    "aliases": [
+      "external acoustic meatus"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Ear-canal opening on the lateral temporal bone.",
+    "clues": [
+      "Round or oval opening behind the mandibular fossa.",
+      "Visible on the outside of the skull."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Forms the bony part of the passage toward the eardrum.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        16
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "temporal-styloid",
+    "name": "Styloid process of temporal bone",
+    "aliases": [
+      "temporal styloid process"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Slender projection extending inferiorly from the temporal bone.",
+    "clues": [
+      "Thin and pointed, unlike the thick mastoid process.",
+      "Look below the external auditory meatus."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Provides attachment for muscles and ligaments in the head and neck.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        19,
+        21
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 7.2 The Skull",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
+      }
+    ]
+  },
+  {
+    "id": "mastoid-process",
+    "name": "Mastoid process",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Rounded projection posterior and inferior to the external auditory meatus.",
+    "clues": [
+      "A large blunt bump behind the ear opening.",
+      "Much thicker than the neighboring styloid process."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Provides muscle attachment and contains small air spaces.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        15,
+        16,
+        23
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "carotid-canal",
+    "name": "Carotid canal",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Passage through the temporal bone at the cranial base.",
+    "clues": [
+      "Find its external opening on the inferior skull.",
+      "It lies anterior to the jugular foramen."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Provides a route for the internal carotid artery into the cranium.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "figure": "8.7"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 7.2 The Skull",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
+      }
+    ]
+  },
+  {
+    "id": "jugular-foramen",
+    "name": "Jugular foramen",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": null,
+    "location": "Opening at the junction of the temporal and occipital bones.",
+    "clues": [
+      "Visible at the cranial base, lateral to the foramen magnum.",
+      "Posterior to the carotid canal opening."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Provides a passage for major venous drainage and several cranial nerves.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        18,
+        19,
+        21
+      ],
+      "figure": "8.6–8.7"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 7.2 The Skull",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
+      }
+    ]
+  },
+  {
+    "id": "internal-auditory-meatus",
+    "name": "Internal auditory (acoustic) meatus",
+    "aliases": [
+      "internal auditory meatus",
+      "internal acoustic meatus"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "temporal",
+    "location": "Opening on the internal surface of the temporal bone.",
+    "clues": [
+      "Visible from inside the cranial cavity.",
+      "Do not confuse it with the ear opening on the outside of the skull."
+    ],
+    "bestView": "Internal",
+    "sideTip": null,
+    "function": "Transmits nerves associated with the face, hearing, and balance.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        18,
+        19,
+        21,
+        22
+      ],
+      "figure": "8.6–8.8"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 7.2 The Skull",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
+      }
+    ]
+  },
+  {
+    "id": "occipital",
+    "name": "Occipital bone",
+    "aliases": [
+      "occipital"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Back and lower base of the cranium.",
+    "clues": [
+      "Below the lambdoid suture on the posterior skull.",
+      "Contains the foramen magnum at its base."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Forms the back of the cranium and surrounds the opening for the spinal cord.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        13,
+        18,
+        20,
+        23,
+        24
+      ],
+      "figure": "8.9"
+    },
+    "paired": false
+  },
+  {
+    "id": "foramen-magnum",
+    "name": "Foramen magnum",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "occipital",
+    "location": "Large midline opening in the inferior occipital bone.",
+    "clues": [
+      "The largest opening at the skull base.",
+      "Occipital condyles lie beside it."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Provides the passage between the cranial cavity and vertebral canal.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        18,
+        20,
+        21
+      ],
+      "figure": "8.6–8.7"
+    },
+    "paired": false
+  },
+  {
+    "id": "occipital-condyles",
+    "name": "Occipital condyles",
+    "aliases": [
+      "occipital condyle"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "occipital",
+    "location": "Paired smooth surfaces beside the foramen magnum.",
+    "clues": [
+      "Oval joint surfaces on either side of the large skull-base opening.",
+      "Located anterolateral to the foramen magnum."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Articulate with the atlas (C1).",
+    "source": {
+      "file": "lab",
+      "pages": [
+        20,
+        21
+      ],
+      "figure": "8.7"
+    },
+    "paired": true
+  },
+  {
+    "id": "sphenoid",
+    "name": "Sphenoid bone",
+    "aliases": [
+      "sphenoid"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Central portion of the cranial base, posterior to the frontal bone.",
+    "clues": [
+      "A complex butterfly-like bone when isolated.",
+      "Contains the central sella turcica."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Connects with surrounding skull bones and contributes to the cranial base and orbits.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        13,
+        17,
+        18,
+        19
+      ],
+      "figure": "8.6"
+    },
+    "paired": false
+  },
+  {
+    "id": "sella-turcica",
+    "name": "Sella turcica",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "sphenoid",
+    "location": "Saddle-like region on the superior central sphenoid.",
+    "clues": [
+      "Look for the central saddle on an internal skull view.",
+      "It lies posterior to the optic canals."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Contains the depression that accommodates the pituitary gland.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        17,
+        19
+      ],
+      "figure": "8.6"
+    },
+    "paired": false
+  },
+  {
+    "id": "optic-canal",
+    "name": "Optic canal",
+    "aliases": [
+      "optic canals"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "sphenoid",
+    "location": "Paired canals in the sphenoid near the anterior cranial base.",
+    "clues": [
+      "Small paired openings near the front of the sphenoid’s central portion.",
+      "Best seen with the cranial roof removed."
+    ],
+    "bestView": "Internal",
+    "sideTip": null,
+    "function": "Provides a passage for the optic nerve.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        17,
+        19
+      ],
+      "figure": "8.6"
+    },
+    "paired": true
+  },
+  {
+    "id": "ethmoid",
+    "name": "Ethmoid bone",
+    "aliases": [
+      "ethmoid"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Deep midline skull bone between the orbits and above the nasal cavity.",
+    "clues": [
+      "Small and complex compared with surrounding cranial bones.",
+      "Its superior surface includes the cribriform plate."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Contributes to the nasal cavity, medial orbital walls, and cranial base.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        13,
+        17,
+        25
+      ],
+      "figure": "8.11"
+    },
+    "paired": false
+  },
+  {
+    "id": "cribriform-plate",
+    "name": "Cribriform plate",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "ethmoid",
+    "location": "Perforated superior surface of the ethmoid bone.",
+    "clues": [
+      "A sieve-like plate visible in the anterior cranial floor.",
+      "Its many small holes are a useful distinguishing feature."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Forms part of the nasal roof and transmits olfactory nerve fibers.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        17,
+        19,
+        25
+      ],
+      "figure": "8.6 / 8.11"
+    },
+    "paired": false
+  },
+  {
+    "id": "maxillae",
+    "name": "Maxillae",
+    "aliases": [
+      "maxilla",
+      "maxillary bone",
+      "maxillary bones"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Paired upper-jaw bones beneath the orbits.",
+    "clues": [
+      "Carry the upper teeth.",
+      "Form much of the upper jaw and part of each orbit’s floor."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Support the upper teeth and contribute to the palate and orbital floors.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        14,
+        20,
+        22
+      ],
+      "figure": "8.4 / 8.8"
+    },
+    "paired": true
+  },
+  {
+    "id": "mandible",
+    "name": "Mandible",
+    "aliases": [
+      "lower jaw"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Lower jaw.",
+    "clues": [
+      "A U-shaped body with an ascending portion on each side.",
+      "Carries the lower teeth."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms the movable lower jaw.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        14,
+        16,
+        22
+      ],
+      "figure": "8.4 / 8.8"
+    },
+    "paired": false
+  },
+  {
+    "id": "mandible-coronoid",
+    "name": "Coronoid process of mandible",
+    "aliases": [
+      "mandibular coronoid process"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Marking",
+    "parentId": "mandible",
+    "location": "Anterior superior projection on each ascending side of the mandible.",
+    "clues": [
+      "The pointed anterior projection at the top of the mandibular ramus.",
+      "It is anterior to the jaw’s rounded joint process."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Provides a major attachment for a chewing muscle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        16,
+        33
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 7.2 The Skull",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
+      }
+    ]
+  },
+  {
+    "id": "hyoid",
+    "name": "Hyoid bone",
+    "aliases": [
+      "hyoid"
+    ],
+    "division": "Axial",
+    "region": "Skull",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Superior neck, below the mandible.",
+    "clues": [
+      "Small horseshoe-shaped bone.",
+      "Suspended in the neck without directly articulating with another bone."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Supports tongue and neck muscle attachments and helps with swallowing.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        40,
+        41,
+        42
+      ],
+      "figure": "8.26"
+    },
+    "paired": false
+  },
+  {
+    "id": "sternum",
+    "name": "Sternum",
+    "aliases": [
+      "breastbone"
+    ],
+    "division": "Axial",
+    "region": "Thorax",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Midline anterior thorax.",
+    "clues": [
+      "Flat breastbone in the center of the chest.",
+      "Its superior portion is the manubrium and inferior tip is the xiphoid process."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms the anterior support of the thoracic cage.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        40,
+        41
+      ],
+      "figure": "8.24"
+    },
+    "paired": false
+  },
+  {
+    "id": "manubrium",
+    "name": "Manubrium",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Thorax",
+    "kind": "Marking",
+    "parentId": "sternum",
+    "location": "Superior, broad portion of the sternum.",
+    "clues": [
+      "Broad upper segment of the breastbone.",
+      "The clavicles meet its upper lateral sides."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms the superior part of the sternum and articulates with the clavicles.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        40,
+        41,
+        46
+      ],
+      "figure": "8.24"
+    },
+    "paired": false
+  },
+  {
+    "id": "xiphoid-process",
+    "name": "Xiphoid process",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Thorax",
+    "kind": "Marking",
+    "parentId": "sternum",
+    "location": "Small inferior tip of the sternum.",
+    "clues": [
+      "Lowest part of the breastbone.",
+      "Smaller and more variable in shape than the manubrium."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms the inferior end of the sternum and provides soft-tissue attachment.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        40,
+        41
+      ],
+      "figure": "8.24"
+    },
+    "paired": false
+  },
+  {
+    "id": "cervical-vertebrae",
+    "name": "Cervical vertebrae",
+    "aliases": [
+      "cervical vertebra"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Seven vertebrae in the neck.",
+    "clues": [
+      "Look for a transverse foramen on each side.",
+      "Typical examples are smaller than lumbar vertebrae; C1 and C2 are specialized."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Support the head and allow neck movement.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        35,
+        36,
+        37
+      ],
+      "figure": "8.20"
+    },
+    "paired": false
+  },
+  {
+    "id": "thoracic-vertebrae",
+    "name": "Thoracic vertebrae",
+    "aliases": [
+      "thoracic vertebra"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Twelve vertebrae in the thoracic region.",
+    "clues": [
+      "Have joint surfaces for ribs.",
+      "Typical middle examples have a long spinous process directed downward."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Articulate with ribs and contribute to the thoracic cage.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        37,
+        38
+      ],
+      "figure": "8.21"
+    },
+    "paired": false,
+    "sourceNote": "The lab export, page 38, calls all thoracic vertebral foramina triangular. This is not used as an identification rule; typical thoracic foramina are more circular, and regional variation exists."
+  },
+  {
+    "id": "lumbar-vertebrae",
+    "name": "Lumbar vertebrae",
+    "aliases": [
+      "lumbar vertebra"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Five large vertebrae of the lower back.",
+    "clues": [
+      "Large, thick vertebral body.",
+      "Short, broad spinous process and no transverse foramina."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Bear substantial body weight in the lower back.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        39
+      ],
+      "figure": "8.22"
+    },
+    "paired": false
+  },
+  {
+    "id": "sacrum",
+    "name": "Sacrum",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Posterior pelvis between the two coxal bones.",
+    "clues": [
+      "Triangular bone formed from fused vertebrae.",
+      "Broad superior end and tapered inferior end."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Transfers weight from the vertebral column to the pelvic girdle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        39,
+        40
+      ],
+      "figure": "8.23"
+    },
+    "paired": false
+  },
+  {
+    "id": "coccyx",
+    "name": "Coccyx",
+    "aliases": [
+      "tailbone"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Small terminal segment inferior to the sacrum.",
+    "clues": [
+      "Much smaller than the sacrum.",
+      "A short sequence of fused or partly fused terminal segments."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms the terminal part of the vertebral column and provides soft-tissue attachment.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        40
+      ],
+      "figure": "8.23"
+    },
+    "paired": false
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas (C1)",
+    "aliases": [
+      "atlas",
+      "C1",
+      "first cervical vertebra"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": "cervical-vertebrae",
+    "location": "First cervical vertebra, directly beneath the skull.",
+    "clues": [
+      "Ring-like shape without a vertebral body.",
+      "Lacks the typical spinous process."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Articulates with the occipital condyles and supports the head.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        36,
+        37
+      ],
+      "figure": "8.20C"
+    },
+    "paired": false
+  },
+  {
+    "id": "axis",
+    "name": "Axis (C2)",
+    "aliases": [
+      "axis",
+      "C2",
+      "second cervical vertebra"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Bone",
+    "parentId": "cervical-vertebrae",
+    "location": "Second cervical vertebra, immediately inferior to the atlas.",
+    "clues": [
+      "Recognize the dens projecting upward.",
+      "Has a vertebral body, unlike the atlas."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Provides the pivot for rotation of the atlas and head.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        36,
+        37
+      ],
+      "figure": "8.20D"
+    },
+    "paired": false
+  },
+  {
+    "id": "dens",
+    "name": "Dens of axis",
+    "aliases": [
+      "dens",
+      "odontoid process"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Marking",
+    "parentId": "axis",
+    "location": "Superior projection from the body of the axis.",
+    "clues": [
+      "Tooth-like projection pointing upward.",
+      "Fits inside the ring of the atlas."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Acts as the pivot for head rotation.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        36,
+        37
+      ],
+      "figure": "8.20D"
+    },
+    "paired": false
+  },
+  {
+    "id": "transverse-foramen",
+    "name": "Transverse foramen",
+    "aliases": [
+      "transverse foramina"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Marking",
+    "parentId": "cervical-vertebrae",
+    "location": "Opening in each transverse process of a cervical vertebra.",
+    "clues": [
+      "Paired side openings, separate from the large central opening.",
+      "A useful marker for the cervical region."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Provides a passage for vessels in the cervical region.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        36,
+        37
+      ],
+      "figure": "8.20"
+    },
+    "paired": true
+  },
+  {
+    "id": "spinous-process",
+    "name": "Spinous process of vertebra",
+    "aliases": [
+      "spinous process"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Marking",
+    "parentId": null,
+    "location": "Midline posterior projection of a typical vertebra.",
+    "clues": [
+      "Single projection toward the back.",
+      "Distinguish it from the paired lateral transverse processes."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Provides attachment for muscles and ligaments.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "figure": "8.20–8.22"
+    },
+    "paired": false
+  },
+  {
+    "id": "transverse-process",
+    "name": "Transverse process of vertebra",
+    "aliases": [
+      "transverse process",
+      "transverse processes"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Marking",
+    "parentId": null,
+    "location": "Paired lateral projections of a vertebra.",
+    "clues": [
+      "Project to the sides rather than the posterior midline.",
+      "Cervical examples contain transverse foramina."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Provide muscle and ligament attachment; thoracic examples may also articulate with ribs.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "figure": "8.20–8.21"
+    },
+    "paired": true
+  },
+  {
+    "id": "lamina",
+    "name": "Lamina of vertebra",
+    "aliases": [
+      "lamina",
+      "laminae",
+      "vertebral lamina"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Marking",
+    "parentId": null,
+    "location": "Posterior plate of the vertebral arch on either side of the spinous process.",
+    "clues": [
+      "A short bony bridge leading toward the spinous process.",
+      "Forms part of the posterior wall around the vertebral opening."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Helps enclose the vertebral canal.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        36,
+        37
+      ],
+      "figure": "8.20"
+    },
+    "paired": true
+  },
+  {
+    "id": "vertebral-body",
+    "name": "Body of vertebra (centrum)",
+    "aliases": [
+      "body",
+      "centrum",
+      "vertebral body",
+      "body of vertebra"
+    ],
+    "division": "Axial",
+    "region": "Vertebral column",
+    "kind": "Marking",
+    "parentId": null,
+    "location": "Anterior weight-bearing portion of a typical vertebra.",
+    "clues": [
+      "Large block-like portion opposite the spinous process.",
+      "Absent as a separate body in the atlas."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Bears weight and meets adjacent vertebral bodies through discs.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        35,
+        36,
+        37,
+        39
+      ],
+      "figure": "8.20–8.22"
+    },
+    "paired": false
+  },
+  {
+    "id": "rib",
+    "name": "Rib",
+    "aliases": [
+      "ribs"
+    ],
+    "division": "Axial",
+    "region": "Thorax",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Curved bones extending around the thorax from the thoracic vertebrae.",
+    "clues": [
+      "Long, curved and flattened.",
+      "The costal groove follows part of the inner surface near the inferior border."
+    ],
+    "bestView": "Posterior",
+    "sideTip": "Orient the vertebral end posteriorly and the costal groove inferiorly before deciding the side.",
+    "function": "Helps protect thoracic organs and supports the chest wall.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        41,
+        42
+      ],
+      "figure": "8.25"
+    },
+    "paired": true
+  },
+  {
+    "id": "costal-groove",
+    "name": "Costal groove",
+    "aliases": [],
+    "division": "Axial",
+    "region": "Thorax",
+    "kind": "Marking",
+    "parentId": "rib",
+    "location": "Groove on the internal surface near the inferior border of a typical rib.",
+    "clues": [
+      "Follow the lower inside edge of the rib shaft.",
+      "It is a groove, not one of the smooth joint surfaces."
+    ],
+    "bestView": "Inferior",
+    "sideTip": null,
+    "function": "Shelters blood vessels and a nerve along the rib.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        41,
+        42
+      ],
+      "figure": "8.25"
+    },
+    "paired": true
+  },
+  {
+    "id": "scapula",
+    "name": "Scapula",
+    "aliases": [
+      "shoulder blade"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Flat triangular bone on the posterior shoulder.",
+    "clues": [
+      "The prominent spine is on the posterior surface.",
+      "The glenoid cavity faces laterally."
+    ],
+    "bestView": "Posterior",
+    "sideTip": "Place the spine posteriorly and the glenoid cavity laterally; the inferior angle points down.",
+    "function": "Links the upper limb with the shoulder girdle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "figure": "8.28"
+    },
+    "paired": true
+  },
+  {
+    "id": "glenoid-cavity",
+    "name": "Glenoid cavity",
+    "aliases": [
+      "glenoid fossa"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "scapula",
+    "location": "Shallow socket on the lateral angle of the scapula.",
+    "clues": [
+      "Oval depression facing away from the trunk.",
+      "Smaller and shallower than the pelvic acetabulum."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Articulates with the head of the humerus.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        45
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "coracoid-process",
+    "name": "Coracoid process",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "scapula",
+    "location": "Anterior projection from the superior scapula.",
+    "clues": [
+      "Hook-like projection pointing forward.",
+      "Different from the broader acromion, which continues from the spine."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Provides attachment for muscles and ligaments around the shoulder.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        44,
+        45
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "acromion",
+    "name": "Acromion",
+    "aliases": [
+      "acromion process"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "scapula",
+    "location": "Broad lateral extension of the scapular spine.",
+    "clues": [
+      "Forms the high outer part of the shoulder.",
+      "Follow the scapular spine laterally to find it."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Articulates with the acromial end of the clavicle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        45,
+        46
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "scapular-spine",
+    "name": "Spine of scapula",
+    "aliases": [
+      "scapular spine",
+      "spine"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "scapula",
+    "location": "Prominent ridge across the posterior scapula.",
+    "clues": [
+      "Divides the posterior surface into two fossae.",
+      "Extends laterally toward the acromion."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides muscle attachment and separates the posterior fossae.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        46
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "supraspinous-fossa",
+    "name": "Supraspinous fossa",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "scapula",
+    "location": "Posterior scapular depression superior to the spine.",
+    "clues": [
+      "Smaller of the two major posterior fossae.",
+      "Supra means above: look above the spine."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides a surface for shoulder-muscle attachment.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        46
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "infraspinous-fossa",
+    "name": "Infraspinous fossa",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "scapula",
+    "location": "Posterior scapular depression inferior to the spine.",
+    "clues": [
+      "Large depression below the scapular spine.",
+      "Infra means below."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides a surface for shoulder-muscle attachment.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        43,
+        46
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "clavicle",
+    "name": "Clavicle",
+    "aliases": [
+      "collarbone"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "S-shaped bone across the anterior shoulder girdle.",
+    "clues": [
+      "Runs between sternum and scapula.",
+      "Its S shape is easiest to see from above."
+    ],
+    "bestView": "Superior",
+    "sideTip": "Place the bulky sternal end medially and the flattened acromial end laterally; the medial curve bows anteriorly.",
+    "function": "Holds the shoulder and upper limb away from the trunk.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        46
+      ],
+      "figure": "8.29"
+    },
+    "paired": true
+  },
+  {
+    "id": "clavicle-sternal-end",
+    "name": "Sternal end of clavicle",
+    "aliases": [
+      "sternal end"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "clavicle",
+    "location": "Medial end of the clavicle.",
+    "clues": [
+      "The thicker end nearest the midline.",
+      "Meets the manubrium."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Articulates with the sternum.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        46
+      ],
+      "figure": "8.29"
+    },
+    "paired": true
+  },
+  {
+    "id": "clavicle-acromial-end",
+    "name": "Acromial end of clavicle",
+    "aliases": [
+      "acromial end"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "clavicle",
+    "location": "Lateral end of the clavicle.",
+    "clues": [
+      "Flatter end near the shoulder.",
+      "Meets the scapular acromion."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Articulates with the acromion.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        46
+      ],
+      "figure": "8.29"
+    },
+    "paired": true
+  },
+  {
+    "id": "humerus",
+    "name": "Humerus",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Single long bone between shoulder and elbow.",
+    "clues": [
+      "Rounded proximal head and expanded distal end.",
+      "Large olecranon fossa on the distal posterior surface."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "Place the rounded head proximally and medially, with the olecranon fossa facing posteriorly.",
+    "function": "Forms the upper arm and contributes to shoulder and elbow joints.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        46,
+        47
+      ],
+      "figure": "8.30"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "humerus-head",
+    "name": "Head of humerus",
+    "aliases": [
+      "humeral head"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Rounded proximal medial surface of the humerus.",
+    "clues": [
+      "Smooth ball-like surface at the shoulder end.",
+      "Faces toward the glenoid cavity."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Articulates with the scapular glenoid cavity.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47
+      ],
+      "figure": "8.30"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "greater-tubercle",
+    "name": "Greater tubercle of humerus",
+    "aliases": [
+      "greater tubercle"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Large prominence lateral to the proximal humeral head.",
+    "clues": [
+      "Larger of the two proximal tubercles.",
+      "Look beside the smooth humeral head."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Provides attachment for shoulder muscles.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47
+      ],
+      "figure": "8.30"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "lesser-tubercle",
+    "name": "Lesser tubercle of humerus",
+    "aliases": [
+      "lesser tubercle"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Smaller prominence on the anterior proximal humerus.",
+    "clues": [
+      "Smaller and more anterior than the greater tubercle.",
+      "Separated from it by a groove."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Provides attachment for a shoulder muscle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47
+      ],
+      "figure": "8.30"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "deltoid-tuberosity",
+    "name": "Deltoid tuberosity",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Roughened area on the lateral humeral shaft.",
+    "clues": [
+      "A rough projection partway along the shaft.",
+      "Below the proximal tubercles."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Attachment site for the deltoid muscle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47
+      ],
+      "figure": "8.30"
+    },
+    "paired": true
+  },
+  {
+    "id": "trochlea",
+    "name": "Trochlea of humerus",
+    "aliases": [
+      "trochlea",
+      "humeral trochlea"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Medial articular region at the distal humerus.",
+    "clues": [
+      "Spool-shaped surface near the elbow.",
+      "Medial to the rounder capitulum."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Articulates with the trochlear notch of the ulna.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47,
+        48
+      ],
+      "figure": "8.30"
+    },
+    "paired": true
+  },
+  {
+    "id": "capitulum",
+    "name": "Capitulum",
+    "aliases": [
+      "capitulum of humerus"
+    ],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Lateral articular region at the distal humerus.",
+    "clues": [
+      "Rounded knob-like joint surface.",
+      "Lateral to the spool-shaped trochlea."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Articulates with the radial head.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47,
+        48
+      ],
+      "figure": "8.30"
+    },
+    "paired": true
+  },
+  {
+    "id": "olecranon-fossa",
+    "name": "Olecranon fossa",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Shoulder & arm",
+    "kind": "Marking",
+    "parentId": "humerus",
+    "location": "Deep depression on the posterior distal humerus.",
+    "clues": [
+      "Large hollow just superior to the trochlea.",
+      "Its posterior position helps orient the humerus."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Receives the ulnar olecranon process when the elbow straightens.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        47
+      ],
+      "figure": "8.30"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "ulna",
+    "name": "Ulna",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Medial forearm bone in anatomical position.",
+    "clues": [
+      "Large U-shaped proximal end.",
+      "Small rounded distal head near the wrist."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "Point the trochlear notch anteriorly, keep the olecranon proximal, and place the radial articulation laterally.",
+    "function": "Articulates with the humerus and radius.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48,
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "olecranon-process",
+    "name": "Olecranon process",
+    "aliases": [
+      "olecranon",
+      "olecranon process of ulna"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "ulna",
+    "location": "Large posterior superior process at the proximal ulna.",
+    "clues": [
+      "Forms the point of the elbow.",
+      "Upper lip of the large trochlear notch."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Fits into the humeral olecranon fossa during elbow extension.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "ulna-coronoid",
+    "name": "Coronoid process of ulna",
+    "aliases": [
+      "ulnar coronoid process"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "ulna",
+    "location": "Anterior projection at the lower margin of the trochlear notch.",
+    "clues": [
+      "Smaller anterior lip beneath the notch.",
+      "Do not confuse it with the mandible’s coronoid process."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Contributes to the elbow’s bony articulation and stability.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "trochlear-notch",
+    "name": "Trochlear notch",
+    "aliases": [
+      "trochlear notch of ulna"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "ulna",
+    "location": "Large curved articular notch at the proximal ulna.",
+    "clues": [
+      "A deep U- or C-shaped curve.",
+      "Lies between the olecranon and coronoid processes."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Fits around the humeral trochlea.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "ulna-head",
+    "name": "Ulnar head",
+    "aliases": [
+      "head of ulna",
+      "ulnar head"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "ulna",
+    "location": "Small rounded distal end of the ulna.",
+    "clues": [
+      "Located at the wrist end, not the elbow end.",
+      "Near the ulnar styloid process."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Articulates with the distal radius; it does not directly articulate with the carpal bones.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48,
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ],
+    "sourceNote": "The lab export, page 48, says the ulnar head articulates with the lunate. This card follows the correction that the distal ulna does not directly articulate with the carpal bones."
+  },
+  {
+    "id": "ulna-styloid",
+    "name": "Styloid process of ulna",
+    "aliases": [
+      "ulnar styloid process",
+      "ulnar styloid"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "ulna",
+    "location": "Small pointed projection beside the distal ulnar head.",
+    "clues": [
+      "A distal spike next to the rounded head.",
+      "On the medial side of the forearm."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides attachment for connective tissues near the wrist.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48,
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "radius",
+    "name": "Radius",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Lateral forearm bone on the thumb side in anatomical position.",
+    "clues": [
+      "Disc-shaped proximal head.",
+      "Much broader at the wrist end than at the elbow end."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "Place the disc-shaped head proximally, the tuberosity medially, and the distal styloid laterally.",
+    "function": "Contributes to elbow and wrist joints and rotates with the forearm.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48,
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "radius-head",
+    "name": "Radial head",
+    "aliases": [
+      "head of radius",
+      "radial head"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "radius",
+    "location": "Disc-shaped proximal end of the radius.",
+    "clues": [
+      "Small round disc at the elbow end.",
+      "Different from the distal head of the ulna."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Articulates with the humeral capitulum and the proximal ulna.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        48,
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "radial-tuberosity",
+    "name": "Radial tuberosity",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "radius",
+    "location": "Rough projection just distal to the radial head and neck.",
+    "clues": [
+      "A bump near the elbow end of the radius.",
+      "Situated on the medial side."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Provides a muscle attachment that helps flex the elbow and turn the forearm.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "radius-styloid",
+    "name": "Styloid process of radius",
+    "aliases": [
+      "radial styloid process",
+      "radial styloid"
+    ],
+    "division": "Appendicular",
+    "region": "Forearm",
+    "kind": "Marking",
+    "parentId": "radius",
+    "location": "Pointed projection at the lateral distal radius.",
+    "clues": [
+      "A spike at the broad wrist end.",
+      "Points toward the thumb side."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Provides ligament attachment on the lateral side of the wrist.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        49
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.2 Bones of the Upper Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+      }
+    ]
+  },
+  {
+    "id": "pelvis",
+    "name": "Pelvis",
+    "aliases": [
+      "bony pelvis"
+    ],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Region",
+    "parentId": null,
+    "location": "Bony ring at the base of the trunk.",
+    "clues": [
+      "Both coxal bones together with sacrum and coccyx.",
+      "A ring-like assembly, not a single coxal bone."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Supports pelvic organs and transfers body weight to the lower limbs.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        50,
+        51
+      ],
+      "figure": null
+    },
+    "paired": false
+  },
+  {
+    "id": "sacroiliac-joints",
+    "name": "Sacroiliac joints",
+    "aliases": [
+      "sacroiliac joint",
+      "SI joint",
+      "SI joints"
+    ],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Joint",
+    "parentId": null,
+    "location": "Junctions between the sacrum and the right and left ilia.",
+    "clues": [
+      "One on each side of the sacrum.",
+      "At the posterior part of the pelvic ring."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Connect the axial skeleton to the pelvic girdle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        39,
+        50,
+        51
+      ],
+      "figure": null
+    },
+    "paired": true
+  },
+  {
+    "id": "coxal-bone",
+    "name": "Coxal bone",
+    "aliases": [
+      "hip bone",
+      "os coxae",
+      "coxal",
+      "hemipelvis"
+    ],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "One side of the pelvic girdle.",
+    "clues": [
+      "Fusion of ilium, ischium, and pubis.",
+      "Has an acetabulum laterally and a large obturator foramen inferiorly."
+    ],
+    "bestView": "Lateral",
+    "sideTip": "Place the acetabulum laterally, the pubis anteriorly, and the broad ilium superiorly.",
+    "function": "Forms one side of the pelvis and articulates with the femur.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        50,
+        51
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "acetabulum",
+    "name": "Acetabulum",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Marking",
+    "parentId": "coxal-bone",
+    "location": "Deep lateral socket of the coxal bone.",
+    "clues": [
+      "Round, deep cup above the obturator foramen.",
+      "Located where ilium, ischium, and pubis meet."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Articulates with the femoral head.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "obturator-foramen",
+    "name": "Obturator foramen",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Marking",
+    "parentId": "coxal-bone",
+    "location": "Large opening formed by the pubis and ischium.",
+    "clues": [
+      "Large hole inferior to the acetabulum.",
+      "Do not confuse this opening with the acetabular socket."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Most of the opening is covered by a membrane in life.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "ilium",
+    "name": "Ilium",
+    "aliases": [
+      "iliac bone"
+    ],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Bone",
+    "parentId": "coxal-bone",
+    "location": "Broad superior part of a coxal bone.",
+    "clues": [
+      "Largest and most superior coxal component.",
+      "Its upper rim is the iliac crest."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Forms the upper part of the hip bone and meets the sacrum.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51,
+        52
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "iliac-crest",
+    "name": "Iliac crest",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Marking",
+    "parentId": "ilium",
+    "location": "Superior curved border of the ilium.",
+    "clues": [
+      "Thick upper rim of the broad iliac wing.",
+      "The ridge felt when placing hands on hips."
+    ],
+    "bestView": "Superior",
+    "sideTip": null,
+    "function": "Provides attachment for muscles and connective tissue.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51,
+        52
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "greater-sciatic-notch",
+    "name": "Greater sciatic notch",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Marking",
+    "parentId": "ilium",
+    "location": "Large notch on the posterior border of the coxal bone.",
+    "clues": [
+      "Deep posterior indentation above the ischial spine.",
+      "Below the posterior ilium."
+    ],
+    "bestView": "Lateral",
+    "sideTip": null,
+    "function": "Contributes to a passage between the pelvis and gluteal region when completed by ligaments.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51,
+        52
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "ischium",
+    "name": "Ischium",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Bone",
+    "parentId": "coxal-bone",
+    "location": "Posteroinferior part of the coxal bone.",
+    "clues": [
+      "Below and behind the acetabulum.",
+      "Includes the large ischial tuberosity."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Forms the lower posterior hip bone and bears weight during sitting.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51,
+        52
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "ischial-tuberosity",
+    "name": "Ischial tuberosity",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Marking",
+    "parentId": "ischium",
+    "location": "Thick rough prominence on the inferior ischium.",
+    "clues": [
+      "Large rough sitting-bone prominence.",
+      "Posterior and inferior to the obturator foramen."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Supports body weight when sitting and provides muscle attachment.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51,
+        52
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "pubis",
+    "name": "Pubis",
+    "aliases": [
+      "pubic bone"
+    ],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Bone",
+    "parentId": "coxal-bone",
+    "location": "Anterior portion of the coxal bone.",
+    "clues": [
+      "Meets its opposite partner at the anterior midline.",
+      "Forms part of the border of the obturator foramen."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms the anterior part of the pelvic ring.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        51,
+        52
+      ],
+      "figure": "8.34"
+    },
+    "paired": true
+  },
+  {
+    "id": "pubic-symphysis",
+    "name": "Pubic symphysis",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Joint",
+    "parentId": null,
+    "location": "Midline joint between the right and left pubic bones.",
+    "clues": [
+      "At the front center of the pelvis.",
+      "The joint is above the pubic arch."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Unites the pubic bones with fibrocartilage.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        50,
+        51,
+        52
+      ],
+      "figure": null
+    },
+    "paired": false
+  },
+  {
+    "id": "pubic-arch",
+    "name": "Pubic arch",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Pelvis",
+    "kind": "Region",
+    "parentId": null,
+    "location": "Arch below the pubic symphysis formed by the inferior pubic regions of both sides.",
+    "clues": [
+      "An inverted V-shaped angle below the midline pubic joint.",
+      "Requires both sides of the pelvis to see the whole arch."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Forms part of the anterior boundary of the pelvic outlet.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        52,
+        53
+      ],
+      "figure": null
+    },
+    "paired": false
+  },
+  {
+    "id": "femur",
+    "name": "Femur",
+    "aliases": [
+      "thigh bone"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Single long bone of the thigh.",
+    "clues": [
+      "Large proximal head on a distinct neck.",
+      "Two large distal condyles at the knee."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "Point the head medially and keep the linea aspera on the posterior shaft.",
+    "function": "Transfers body weight between the pelvis and tibia.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        53,
+        54,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "femur-head",
+    "name": "Head of femur",
+    "aliases": [
+      "femoral head"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Rounded proximal medial end of the femur.",
+    "clues": [
+      "Ball-shaped surface at the end of the neck.",
+      "Faces toward the acetabulum."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Articulates with the acetabulum of the hip bone.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        53,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "femur-neck",
+    "name": "Neck of femur",
+    "aliases": [
+      "femoral neck"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Narrow segment connecting the femoral head to the shaft region.",
+    "clues": [
+      "Constriction between head and trochanters.",
+      "Runs obliquely between the head and the upper shaft."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Connects the femoral head with the rest of the bone.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        53,
+        54,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "greater-trochanter",
+    "name": "Greater trochanter",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Large lateral projection near the proximal femur.",
+    "clues": [
+      "Large bump lateral to the femoral neck.",
+      "Much larger than the lesser trochanter."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Provides attachment for muscles acting at the hip.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        54,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "lesser-trochanter",
+    "name": "Lesser trochanter",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Smaller posteromedial projection just below the femoral neck.",
+    "clues": [
+      "Small bump below the neck on the posterior medial side.",
+      "Best exposed by rotating the femur toward a posterior view."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides attachment for a major hip-flexor tendon.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        54,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.4 Bones of the Lower Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+      }
+    ]
+  },
+  {
+    "id": "gluteal-tuberosity",
+    "name": "Gluteal tuberosity",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Roughened proximal posterior area of the femoral shaft.",
+    "clues": [
+      "Rough ridge below the greater trochanter.",
+      "Proximal to much of the linea aspera."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides attachment for the gluteus maximus muscle.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        54,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "linea-aspera",
+    "name": "Linea aspera",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Long ridge on the posterior femoral shaft.",
+    "clues": [
+      "Runs lengthwise along the back of the femur.",
+      "Useful for orienting the bone posteriorly."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Provides attachment for several thigh muscles.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        54,
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "femur-medial-condyle",
+    "name": "Medial condyle of femur",
+    "aliases": [
+      "medial femoral condyle"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Distal femoral joint surface on the side nearer the body midline.",
+    "clues": [
+      "One of the two large rounded knee surfaces.",
+      "On the same anatomical side as the femoral head."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Articulates with the medial side of the tibia.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "femur-lateral-condyle",
+    "name": "Lateral condyle of femur",
+    "aliases": [
+      "lateral femoral condyle"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "femur",
+    "location": "Distal femoral joint surface farther from the body midline.",
+    "clues": [
+      "The outer of the two large rounded knee surfaces.",
+      "Opposite the medial condyle across the posterior notch."
+    ],
+    "bestView": "Posterior",
+    "sideTip": null,
+    "function": "Articulates with the lateral side of the tibia.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        55
+      ],
+      "figure": "8.35"
+    },
+    "paired": true
+  },
+  {
+    "id": "patella",
+    "name": "Patella",
+    "aliases": [
+      "kneecap"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Anterior to the distal femur at the knee.",
+    "clues": [
+      "Small triangular kneecap.",
+      "The pointed end faces inferiorly."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "With the apex inferior and joint surface posterior, the lateral articular facet is usually larger. Facet size varies, so compare the full shape.",
+    "function": "Protects the front of the knee and improves the leverage of knee extension.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        53
+      ],
+      "figure": null
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.4 Bones of the Lower Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+      },
+      {
+        "title": "Morphometric Analysis of Dry Human Patella and Patellar Facets (2022)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8981413/"
+      }
+    ]
+  },
+  {
+    "id": "tibia",
+    "name": "Tibia",
+    "aliases": [
+      "shin bone"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Larger medial bone of the leg between knee and ankle.",
+    "clues": [
+      "Broad proximal end and thick shaft.",
+      "Distal medial malleolus forms the inner ankle prominence."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "Place the tibial tuberosity anteriorly and the medial malleolus toward the body midline.",
+    "function": "Main weight-bearing bone of the leg.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        55,
+        56
+      ],
+      "figure": "8.36"
+    },
+    "paired": true
+  },
+  {
+    "id": "tibial-tuberosity",
+    "name": "Tibial tuberosity",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "tibia",
+    "location": "Rough projection on the anterior proximal tibia.",
+    "clues": [
+      "Below the broad upper joint surfaces.",
+      "An anterior bump just below the knee."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Attachment site of the patellar ligament.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        55,
+        56
+      ],
+      "figure": "8.36"
+    },
+    "paired": true
+  },
+  {
+    "id": "medial-malleolus",
+    "name": "Medial malleolus",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "tibia",
+    "location": "Medial projection at the distal tibia.",
+    "clues": [
+      "Forms the inner ankle prominence.",
+      "Belongs to the tibia, not the fibula."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Contributes to the medial side of the ankle joint.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        55,
+        56
+      ],
+      "figure": "8.36"
+    },
+    "paired": true
+  },
+  {
+    "id": "fibula",
+    "name": "Fibula",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Slender lateral bone of the leg.",
+    "clues": [
+      "Much thinner than the tibia.",
+      "Its distal end forms the lateral malleolus."
+    ],
+    "bestView": "Anterior",
+    "sideTip": "Keep the head proximal and the ankle end distal; its ankle joint surface faces medially toward the tibia.",
+    "function": "Provides muscle attachment and contributes to ankle stability.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        56
+      ],
+      "figure": "8.36"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.4 Bones of the Lower Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+      }
+    ]
+  },
+  {
+    "id": "fibula-head",
+    "name": "Head of fibula",
+    "aliases": [
+      "fibular head"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "fibula",
+    "location": "Expanded proximal end of the fibula.",
+    "clues": [
+      "Upper end near the lateral knee.",
+      "Does not articulate directly with the femur."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Articulates with the proximal tibia.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        56
+      ],
+      "figure": "8.36"
+    },
+    "paired": true
+  },
+  {
+    "id": "lateral-malleolus",
+    "name": "Lateral malleolus",
+    "aliases": [],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Marking",
+    "parentId": "fibula",
+    "location": "Distal expansion of the fibula.",
+    "clues": [
+      "Forms the outer ankle prominence.",
+      "Belongs to the slender fibula."
+    ],
+    "bestView": "Anterior",
+    "sideTip": null,
+    "function": "Contributes to the lateral side of the ankle joint.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        56
+      ],
+      "figure": "8.36"
+    },
+    "paired": true
+  },
+  {
+    "id": "calcaneus",
+    "name": "Calcaneus",
+    "aliases": [
+      "heel bone"
+    ],
+    "division": "Appendicular",
+    "region": "Lower limb",
+    "kind": "Bone",
+    "parentId": null,
+    "location": "Heel bone at the posterior foot.",
+    "clues": [
+      "Largest bone of the ankle/heel region.",
+      "Forms the heel behind and below the other foot bones."
+    ],
+    "bestView": "Lateral",
+    "sideTip": "The heel points posteriorly; the shelf-like projection supporting the talus is on the medial side.",
+    "function": "Supports the heel and provides attachment for the Achilles tendon.",
+    "source": {
+      "file": "lab",
+      "pages": [
+        56,
+        57
+      ],
+      "figure": "8.37"
+    },
+    "paired": true,
+    "supplementarySources": [
+      {
+        "title": "OpenStax Anatomy and Physiology 2e, 8.4 Bones of the Lower Limb",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+      }
+    ]
+  }
+]

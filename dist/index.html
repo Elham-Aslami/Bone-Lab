@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#173e38"><meta name="description" content="Your BIOL 270 practical study companion: explore real 3D bones, learn your exam structures, and practice identification.">
+  <title>Bone Lab — BIOL 270</title>
+  <script src="./theme.js"></script>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css">
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js"}}</script>
+</head>
+<body>
+  <a class="skip" href="#workspace">Skip to study workspace</a>
+  <aside class="rail" aria-label="Application navigation">
+    <a class="brand-symbol" href="./" aria-label="Bone Lab home"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M10 7c-5-5-11 3-5 6l14 14c3 6 11 0 6-5 5-3 0-10-5-6L12 8c4-5-3-10-6-5"/></svg></a>
+    <button class="rail-button active" data-tab="explore" aria-label="Explore" title="Explore"><span data-icon="box"></span></button>
+    <button class="rail-button" data-tab="practice" aria-label="Practice" title="Practice"><span data-icon="target"></span></button>
+    <button class="rail-button" data-tab="compare" aria-label="Compare" title="Compare"><span data-icon="columns"></span></button>
+    <button class="rail-button" data-tab="progress" aria-label="Progress" title="Progress"><span data-icon="chart"></span></button>
+    <button class="rail-button rail-bottom" id="about-button" aria-label="Sources and coverage" title="Sources and coverage"><span data-icon="info"></span></button>
+    <div class="avatar" title="Your personal study workspace">EA</div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="wordmark">Bone<span>Lab</span><span class="course-tag">BIOL 270</span></div>
+      <nav class="tabs" aria-label="Study modes">
+        <button data-tab="explore" class="active">Explore</button><button data-tab="practice">Practice</button><button data-tab="compare">Compare</button><button data-tab="progress">My progress</button>
+      </nav>
+      <div class="topbar-actions">
+        <button id="theme-toggle" class="theme-toggle quiet small" type="button" aria-label="Switch to light mode" title="Switch to light mode">
+          <svg class="theme-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+          <svg class="theme-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.9 13A9 9 0 0 1 11 3.1 9 9 0 1 0 20.9 13Z"/></svg>
+          <span class="theme-label">Light mode</span>
+        </button>
+        <button id="export-top" class="quiet small" aria-label="Save progress" title="Save progress"><span data-icon="download"></span><span>Save progress</span></button>
+      </div>
+    </header>
+    <div class="page-intro"><div><div class="eyebrow">YOUR PRACTICAL STUDY COMPANION</div><h1 id="page-title">Explore the skeleton</h1><p id="page-description">Get to know each bone. Then see it from another angle.</p></div><div class="intro-stats"><span><strong id="term-total">104</strong> exam structures</span><span class="save-status"><i></i> Saved on this device</span></div></div>
+    <main id="workspace" class="workspace">
+      <aside id="browse-panel" class="panel browse-panel"><div class="panel-heading"><h2>Exam structures</h2><span id="list-count" class="count">104</span></div><label class="search-box"><span data-icon="search"></span><input id="search" type="search" placeholder="Search bones & markings" aria-label="Search exam structures"><kbd>/</kbd></label><div class="segmented division-filter"><button class="active" data-division="All">All</button><button data-division="Axial">Axial</button><button data-division="Appendicular">Appendicular</button></div><div class="filter-line"><label for="region-filter" class="sr-only">Region</label><select id="region-filter"><option value="All">All regions</option></select><button id="bookmarks-only" class="icon-button" aria-label="Show bookmarked structures" aria-pressed="false" title="Bookmarks"><span data-icon="bookmark"></span></button></div><div class="structure-list" id="structure-list"></div><div class="panel-foot"><span class="mini-dot"></span> Your instructor’s exam list</div></aside>
+      <aside id="practice-panel" class="panel practice-panel" hidden></aside>
+      <section id="stage-panel" class="panel stage-panel" aria-label="Interactive 3D skeleton">
+        <div class="stage-top"><div><span class="eyebrow" id="stage-eyebrow">3D ANATOMY EXPLORER</span><h2 id="stage-title">Full skeleton</h2></div><button id="fullscreen" class="icon-button" aria-label="Full screen" title="Full screen"><span data-icon="expand"></span></button></div>
+        <div class="viewer-wrap" id="viewer-wrap"><div id="viewer" tabindex="0" role="application" aria-label="3D anatomy viewer. Use arrow keys to rotate, plus and minus to zoom, R to reset."></div><div id="viewer-loading" class="viewer-loading"><span class="loader"></span><strong>Preparing your skeleton</strong><span>Loading the anatomical 3D model…</span></div><div id="anatomy-label" class="anatomy-label" hidden></div><div class="orientation" id="orientation"><strong>A</strong><span>Anterior view</span></div><div class="side-key"><span>R <small>anatomical right</small></span><span><small>anatomical left</small> L</span></div><div id="viewer-note" class="viewer-note" hidden></div></div>
+        <div class="view-presets" aria-label="Viewing angle"><button data-view="Anterior" class="active">Anterior</button><button data-view="Posterior">Posterior</button><button data-view="Left lateral">Left</button><button data-view="Right lateral">Right</button><button data-view="Superior">Superior</button><button data-view="Inferior">Inferior</button></div>
+        <div class="viewer-toolbar"><div><button id="reset-view" class="tool-button" title="Reset to the full skeleton, facing forward"><span data-icon="reset"></span>Reset</button><button id="focus-selection" class="tool-button" title="Center the selected structure while keeping your viewing angle"><span data-icon="focus"></span>Focus</button><button id="isolate" class="tool-button" aria-pressed="false"><span data-icon="focus"></span>Isolate</button><button id="ghost" class="tool-button" aria-pressed="false"><span data-icon="layers"></span>Fade others</button><button id="labels" class="tool-button active" aria-pressed="true"><span data-icon="tag"></span>Labels</button></div><button id="section" class="tool-button" aria-pressed="false" title="Remove the upper skull to expose its base">Open skull</button></div>
+        <div class="selection-help" id="selection-help">Selecting a structure keeps your view. Use Focus to center it.</div><div class="viewer-help"><span>Drag to rotate</span><b>·</b><span>Scroll to zoom</span><b>·</b><span>Right-drag to pan</span><span class="model-credit">Z-Anatomy · CC BY-SA 4.0</span></div>
+      </section>
+      <aside class="panel detail-panel" id="detail-panel"></aside>
+      <section id="compare-panel" class="panel compare-panel" hidden></section>
+      <section id="progress-panel" class="panel progress-panel" hidden></section>
+    </main>
+    <footer class="app-footer"><span>Made for your BIOL 270 practical.</span><button id="coverage-button">View model coverage <span aria-hidden="true">↗</span></button><span id="coverage-summary">104 study cards · model coverage loading</span></footer>
+  </div>
+  <dialog id="modal"><div class="modal-head"><h2 id="modal-title"></h2><button id="modal-close" class="icon-button" aria-label="Close dialog">×</button></div><div id="modal-body"></div></dialog>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+  <script type="module" src="./app.mjs"></script>
+</body>
+</html>

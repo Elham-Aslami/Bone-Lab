@@ -1,0 +1,2517 @@
+{
+  "frontal": {
+    "type": "mesh",
+    "nodes": [
+      "Frontal bone"
+    ]
+  },
+  "parietal": {
+    "type": "mesh",
+    "nodes": [
+      "Parietal bone.l",
+      "Parietal bone.r"
+    ]
+  },
+  "temporal": {
+    "type": "mesh",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ]
+  },
+  "occipital": {
+    "type": "mesh",
+    "nodes": [
+      "Occipital bone"
+    ]
+  },
+  "sphenoid": {
+    "type": "mesh",
+    "nodes": [
+      "Sphenoid bone"
+    ]
+  },
+  "ethmoid": {
+    "type": "mesh",
+    "nodes": [
+      "Ethmoid bone"
+    ]
+  },
+  "maxillae": {
+    "type": "mesh",
+    "nodes": [
+      "Maxilla.l",
+      "Maxilla.r"
+    ]
+  },
+  "mandible": {
+    "type": "mesh",
+    "nodes": [
+      "Mandible"
+    ]
+  },
+  "hyoid": {
+    "type": "mesh",
+    "nodes": [
+      "Hyoid bone"
+    ]
+  },
+  "sternum": {
+    "type": "mesh",
+    "nodes": [
+      "Body of sternum",
+      "Manubrium of sternum",
+      "Xiphoid process"
+    ]
+  },
+  "manubrium": {
+    "type": "mesh",
+    "nodes": [
+      "Manubrium of sternum"
+    ]
+  },
+  "xiphoid-process": {
+    "type": "mesh",
+    "nodes": [
+      "Xiphoid process"
+    ]
+  },
+  "cervical-vertebrae": {
+    "type": "mesh",
+    "nodes": [
+      "Atlas (C1)",
+      "Axis (C2)",
+      "Vertebra C3",
+      "Vertebra C4",
+      "Vertebra C5",
+      "Vertebra C6",
+      "Vertebra C7"
+    ]
+  },
+  "thoracic-vertebrae": {
+    "type": "mesh",
+    "nodes": [
+      "Vertebra T1",
+      "Vertebra T2",
+      "Vertebra T3",
+      "Vertebra T4",
+      "Vertebra T5",
+      "Vertebra T6",
+      "Vertebra T7",
+      "Vertebra T8",
+      "Vertebra T9",
+      "Vertebra T10",
+      "Vertebra T11",
+      "Vertebra T12"
+    ]
+  },
+  "lumbar-vertebrae": {
+    "type": "mesh",
+    "nodes": [
+      "Vertebra L1",
+      "Vertebra L2",
+      "Vertebra L3",
+      "Vertebra L4",
+      "Vertebra L5"
+    ]
+  },
+  "atlas": {
+    "type": "mesh",
+    "nodes": [
+      "Atlas (C1)"
+    ]
+  },
+  "axis": {
+    "type": "mesh",
+    "nodes": [
+      "Axis (C2)"
+    ]
+  },
+  "sacrum": {
+    "type": "mesh",
+    "nodes": [
+      "Sacrum"
+    ]
+  },
+  "coccyx": {
+    "type": "mesh",
+    "nodes": [
+      "Coccyx"
+    ]
+  },
+  "rib": {
+    "type": "mesh",
+    "nodes": [
+      "Eighth rib.l",
+      "Eighth rib.r",
+      "Eleventh rib.l",
+      "Eleventh rib.r",
+      "Twelfth rib.l",
+      "Twelfth rib.r",
+      "Ninth rib.l",
+      "Ninth rib.r",
+      "Tenth rib.l",
+      "Tenth rib.r",
+      "Fifth rib.l",
+      "Fifth rib.r",
+      "First rib.l",
+      "First rib.r",
+      "Fourth rib.l",
+      "Fourth rib.r",
+      "Second rib.l",
+      "Second rib.r",
+      "Seventh rib.l",
+      "Seventh rib.r",
+      "Sixth rib.l",
+      "Sixth rib.r",
+      "Third rib.l",
+      "Third rib.r"
+    ]
+  },
+  "scapula": {
+    "type": "mesh",
+    "nodes": [
+      "Scapula.l",
+      "Scapula.r"
+    ]
+  },
+  "clavicle": {
+    "type": "mesh",
+    "nodes": [
+      "Clavicle.l",
+      "Clavicle.r"
+    ]
+  },
+  "humerus": {
+    "type": "mesh",
+    "nodes": [
+      "Humerus.l",
+      "Humerus.r"
+    ]
+  },
+  "radius": {
+    "type": "mesh",
+    "nodes": [
+      "Radius.l",
+      "Radius.r"
+    ]
+  },
+  "ulna": {
+    "type": "mesh",
+    "nodes": [
+      "Ulna.l",
+      "Ulna.r"
+    ]
+  },
+  "pelvis": {
+    "type": "mesh",
+    "nodes": [
+      "Hip bone.l",
+      "Hip bone.r",
+      "Sacrum",
+      "Coccyx"
+    ]
+  },
+  "coxal-bone": {
+    "type": "mesh",
+    "nodes": [
+      "Hip bone.l",
+      "Hip bone.r"
+    ]
+  },
+  "femur": {
+    "type": "mesh",
+    "nodes": [
+      "Femur.l",
+      "Femur.r"
+    ]
+  },
+  "patella": {
+    "type": "mesh",
+    "nodes": [
+      "Patella.l",
+      "Patella.r"
+    ]
+  },
+  "tibia": {
+    "type": "mesh",
+    "nodes": [
+      "Tibia.l",
+      "Tibia.r"
+    ]
+  },
+  "fibula": {
+    "type": "mesh",
+    "nodes": [
+      "Fibula.l",
+      "Fibula.r"
+    ]
+  },
+  "calcaneus": {
+    "type": "mesh",
+    "nodes": [
+      "Calcaneus.l",
+      "Calcaneus.r"
+    ]
+  },
+  "temporal-styloid": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Temporal bone.r",
+        "point": [
+          0.008811192,
+          -0.033875227,
+          0.007414189
+        ],
+        "direction": [
+          1.431e-06,
+          -1.0,
+          -9.3e-08
+        ],
+        "side": "Right",
+        "sourceLabel": "Styloid process of temporal bone.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Temporal bone.l",
+        "point": [
+          0.008811199,
+          -0.033874993,
+          0.007414188
+        ],
+        "direction": [
+          6.13e-07,
+          -1.0,
+          -2.2e-08
+        ],
+        "side": "Left",
+        "sourceLabel": "Styloid process of temporal bone.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Temporal bone.r",
+      "Temporal bone.l"
+    ]
+  },
+  "mastoid-process": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Temporal bone.r",
+        "point": [
+          -0.007540573,
+          -0.020888201,
+          -0.009789133
+        ],
+        "direction": [
+          -0.9981965,
+          0.060031224,
+          -4.8e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Mastoid process.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Temporal bone.l",
+        "point": [
+          -0.007540585,
+          -0.020888201,
+          -0.009789136
+        ],
+        "direction": [
+          -0.998196499,
+          0.060031236,
+          -3.36e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Mastoid process.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Temporal bone.r",
+      "Temporal bone.l"
+    ]
+  },
+  "foramen-magnum": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Occipital bone",
+        "point": [
+          0.000661586,
+          -0.044233904,
+          0.028870765
+        ],
+        "direction": [
+          3.07e-07,
+          1.0,
+          1.01e-07
+        ],
+        "side": null,
+        "sourceLabel": "Foramen magnum.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Occipital bone"
+    ]
+  },
+  "occipital-condyles": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Occipital bone",
+        "point": [
+          -0.023002683,
+          -0.042267592,
+          0.040709668
+        ],
+        "direction": [
+          4.51e-07,
+          -1.0,
+          2.27e-07
+        ],
+        "side": null,
+        "sourceLabel": "Occipital condyle.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Occipital bone"
+    ]
+  },
+  "sella-turcica": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Sphenoid bone",
+        "point": [
+          0.0,
+          0.004420074,
+          -0.009709906
+        ],
+        "direction": [
+          0.005007908,
+          0.972970128,
+          -0.230876701
+        ],
+        "side": null,
+        "sourceLabel": "Sella turcica.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Sphenoid bone"
+    ]
+  },
+  "optic-canal": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Sphenoid bone",
+        "point": [
+          -0.012494526,
+          0.013829148,
+          0.004203276
+        ],
+        "direction": [
+          0.059134255,
+          0.106091333,
+          0.992596478
+        ],
+        "side": null,
+        "sourceLabel": "Optic canal.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Sphenoid bone"
+    ]
+  },
+  "dens": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Axis (C2)",
+        "point": [
+          -2.6597e-05,
+          0.002272969,
+          0.001565049
+        ],
+        "direction": [
+          2e-09,
+          0.215992927,
+          0.976394928
+        ],
+        "side": null,
+        "sourceLabel": "Dens axis.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Axis (C2)"
+    ]
+  },
+  "transverse-foramen": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Vertebra C4",
+        "point": [
+          -0.00178472,
+          0.000206566,
+          0.000788705
+        ],
+        "direction": [
+          -0.454148485,
+          -0.890926009,
+          9.1e-08
+        ],
+        "side": null,
+        "sourceLabel": "Foramen transversarium.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Vertebra C4"
+    ]
+  },
+  "spinous-process": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Vertebra L3",
+        "point": [
+          -1.6624e-05,
+          -0.001914525,
+          -0.003499988
+        ],
+        "direction": [
+          1e-09,
+          -0.338875378,
+          -0.94083127
+        ],
+        "side": null,
+        "sourceLabel": "Spinous process.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Vertebra L3"
+    ]
+  },
+  "transverse-process": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Vertebra L3",
+        "point": [
+          0.00404459,
+          0.000941742,
+          -0.000368125
+        ],
+        "direction": [
+          0.686458585,
+          0.021891132,
+          -0.726839315
+        ],
+        "side": null,
+        "sourceLabel": "Transverse process.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Vertebra L3"
+    ]
+  },
+  "lamina": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Vertebra L3",
+        "point": [
+          0.000671852,
+          -0.000340497,
+          -0.000745784
+        ],
+        "direction": [
+          0.0,
+          0.312281843,
+          -0.9499895
+        ],
+        "side": null,
+        "sourceLabel": "Lamina of vertebral arch.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Vertebra L3"
+    ]
+  },
+  "vertebral-body": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Vertebra L3",
+        "point": [
+          0.001665841,
+          -0.00038915,
+          0.004074247
+        ],
+        "direction": [
+          0.65024194,
+          0.019307426,
+          0.759481826
+        ],
+        "side": null,
+        "sourceLabel": "Vertebral body.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Vertebra L3"
+    ]
+  },
+  "costal-groove": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Sixth rib.r",
+        "point": [
+          0.000722155,
+          0.002280764,
+          -0.00634586
+        ],
+        "direction": [
+          -2.3648e-05,
+          -1.0,
+          -1.931e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Costal groove.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Sixth rib.l",
+        "point": [
+          0.000722155,
+          0.002280764,
+          -0.00634586
+        ],
+        "direction": [
+          -2.4402e-05,
+          -1.0,
+          -1.254e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Costal groove.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Sixth rib.r",
+      "Sixth rib.l"
+    ]
+  },
+  "glenoid-cavity": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Scapula.r",
+        "point": [
+          -0.024780492,
+          0.00559631,
+          0.024232751
+        ],
+        "direction": [
+          -0.953150837,
+          0.302364432,
+          -0.008901201
+        ],
+        "side": "Right",
+        "sourceLabel": "Glenoid fossa.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Scapula.l",
+        "point": [
+          -0.024780474,
+          0.005596399,
+          0.024232748
+        ],
+        "direction": [
+          -0.953151012,
+          0.302363885,
+          -0.008901081
+        ],
+        "side": "Left",
+        "sourceLabel": "Glenoid fossa.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Scapula.r",
+      "Scapula.l"
+    ]
+  },
+  "coracoid-process": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Scapula.r",
+        "point": [
+          -0.017803087,
+          0.021654107,
+          0.061270086
+        ],
+        "direction": [
+          -0.775606888,
+          0.013092317,
+          0.63108046
+        ],
+        "side": "Right",
+        "sourceLabel": "Coracoid process.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Scapula.l",
+        "point": [
+          -0.017803088,
+          0.021654366,
+          0.061270084
+        ],
+        "direction": [
+          -0.775606496,
+          0.013088381,
+          0.631081023
+        ],
+        "side": "Left",
+        "sourceLabel": "Coracoid process.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Scapula.r",
+      "Scapula.l"
+    ]
+  },
+  "acromion": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Scapula.r",
+        "point": [
+          -0.041035059,
+          0.045919214,
+          0.013537278
+        ],
+        "direction": [
+          3.26e-07,
+          1.0,
+          1.29e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Acromion.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Scapula.l",
+        "point": [
+          -0.041035033,
+          0.04591911,
+          0.013537284
+        ],
+        "direction": [
+          9.49e-07,
+          1.0,
+          8.3e-08
+        ],
+        "side": "Left",
+        "sourceLabel": "Acromion.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Scapula.r",
+      "Scapula.l"
+    ]
+  },
+  "scapular-spine": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Scapula.r",
+        "point": [
+          0.007545844,
+          0.01870253,
+          -0.031162758
+        ],
+        "direction": [
+          -8.2e-07,
+          0.645755302,
+          -0.763544426
+        ],
+        "side": "Right",
+        "sourceLabel": "Spine of scapula.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Scapula.l",
+        "point": [
+          0.007545844,
+          0.018702492,
+          -0.031162754
+        ],
+        "direction": [
+          -8.21e-07,
+          0.64575264,
+          -0.763546677
+        ],
+        "side": "Left",
+        "sourceLabel": "Spine of scapula.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Scapula.r",
+      "Scapula.l"
+    ]
+  },
+  "supraspinous-fossa": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Scapula.r",
+        "point": [
+          0.016072867,
+          0.011782138,
+          -0.010973232
+        ],
+        "direction": [
+          -1.9e-07,
+          1.0,
+          1.299e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Supraspinous fossa.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Scapula.l",
+        "point": [
+          0.016072858,
+          0.011782143,
+          -0.010973241
+        ],
+        "direction": [
+          -6.52e-07,
+          1.0,
+          1.638e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Supraspinous fossa.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Scapula.r",
+      "Scapula.l"
+    ]
+  },
+  "infraspinous-fossa": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Scapula.r",
+        "point": [
+          0.024047071,
+          -0.038820577,
+          -0.031192356
+        ],
+        "direction": [
+          -0.64129705,
+          0.17563109,
+          -0.746921558
+        ],
+        "side": "Right",
+        "sourceLabel": "Infraspinous fossa.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Scapula.l",
+        "point": [
+          0.024047057,
+          -0.038820578,
+          -0.031192336
+        ],
+        "direction": [
+          -0.641297035,
+          0.17563102,
+          -0.746921588
+        ],
+        "side": "Left",
+        "sourceLabel": "Infraspinous fossa.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Scapula.r",
+      "Scapula.l"
+    ]
+  },
+  "clavicle-sternal-end": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Clavicle.r",
+        "point": [
+          0.053351471,
+          0.004777416,
+          0.040330236
+        ],
+        "direction": [
+          5.8e-07,
+          1.0,
+          -7.36e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Sternal end.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Clavicle.l",
+        "point": [
+          0.053351469,
+          0.004777302,
+          0.040330232
+        ],
+        "direction": [
+          9.25e-07,
+          1.0,
+          -6.984e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Sternal end.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Clavicle.r",
+      "Clavicle.l"
+    ]
+  },
+  "clavicle-acromial-end": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Clavicle.r",
+        "point": [
+          -0.060402251,
+          0.012827816,
+          -0.043421091
+        ],
+        "direction": [
+          5.8e-07,
+          1.0,
+          -7.372e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Acromial end.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Clavicle.l",
+        "point": [
+          -0.060402255,
+          0.012827344,
+          -0.043421087
+        ],
+        "direction": [
+          3.416e-06,
+          1.0,
+          -7.652e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Acromial end.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Clavicle.r",
+      "Clavicle.l"
+    ]
+  },
+  "humerus-head": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          0.026025727,
+          0.152971108,
+          0.015085547
+        ],
+        "direction": [
+          -3.628e-06,
+          0.999988529,
+          0.00478968
+        ],
+        "side": "Right",
+        "sourceLabel": "Head of humerus.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          0.026025669,
+          0.152971283,
+          0.015085546
+        ],
+        "direction": [
+          -1.694e-06,
+          0.999988529,
+          0.004789788
+        ],
+        "side": "Left",
+        "sourceLabel": "Head of humerus.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "greater-tubercle": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          0.004506273,
+          0.149817441,
+          0.005833599
+        ],
+        "direction": [
+          -0.660203353,
+          0.717918838,
+          0.220735306
+        ],
+        "side": "Right",
+        "sourceLabel": "Greater tubercle.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          0.004506235,
+          0.14981731,
+          0.005833599
+        ],
+        "direction": [
+          -0.66020207,
+          0.717920035,
+          0.220735247
+        ],
+        "side": "Left",
+        "sourceLabel": "Greater tubercle.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "lesser-tubercle": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          0.029931428,
+          0.136574905,
+          0.027311451
+        ],
+        "direction": [
+          -0.000785392,
+          0.416882959,
+          0.908959835
+        ],
+        "side": "Right",
+        "sourceLabel": "Lesser tubercle.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          0.029931485,
+          0.136574852,
+          0.027311458
+        ],
+        "direction": [
+          -0.000785308,
+          0.416890414,
+          0.908956416
+        ],
+        "side": "Left",
+        "sourceLabel": "Lesser tubercle.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "deltoid-tuberosity": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          -0.011060404,
+          0.038517502,
+          -0.003254041
+        ],
+        "direction": [
+          -0.999764646,
+          0.021690993,
+          -0.000391693
+        ],
+        "side": "Right",
+        "sourceLabel": "Deltoid tuberosity.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          -0.011060454,
+          0.038517626,
+          -0.00325404
+        ],
+        "direction": [
+          -0.999764567,
+          0.021694613,
+          -0.000391741
+        ],
+        "side": "Left",
+        "sourceLabel": "Deltoid tuberosity.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "trochlea": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          -0.019770599,
+          -0.14923692,
+          0.003758426
+        ],
+        "direction": [
+          -0.000861209,
+          0.077670807,
+          0.996978688
+        ],
+        "side": "Right",
+        "sourceLabel": "Trochlea of humerus.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          -0.019770606,
+          -0.149236922,
+          0.003758428
+        ],
+        "direction": [
+          -0.000861855,
+          0.077667638,
+          0.996978934
+        ],
+        "side": "Left",
+        "sourceLabel": "Trochlea of humerus.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "capitulum": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          -0.043118188,
+          -0.14368344,
+          0.003944823
+        ],
+        "direction": [
+          -0.834767846,
+          -0.550220582,
+          0.020492782
+        ],
+        "side": "Right",
+        "sourceLabel": "Capitulum of humerus.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          -0.043118215,
+          -0.143683379,
+          0.003944823
+        ],
+        "direction": [
+          -0.834766416,
+          -0.550222752,
+          0.020492766
+        ],
+        "side": "Left",
+        "sourceLabel": "Capitulum of humerus.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "olecranon-fossa": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Humerus.r",
+        "point": [
+          -0.020045555,
+          -0.136288649,
+          -0.008639323
+        ],
+        "direction": [
+          0.00086166,
+          0.078520276,
+          -0.996912145
+        ],
+        "side": "Right",
+        "sourceLabel": "Olecranon fossa.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Humerus.l",
+        "point": [
+          -0.020045557,
+          -0.136288581,
+          -0.008639324
+        ],
+        "direction": [
+          0.000861231,
+          0.078518044,
+          -0.996912321
+        ],
+        "side": "Left",
+        "sourceLabel": "Olecranon fossa.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Humerus.r",
+      "Humerus.l"
+    ]
+  },
+  "olecranon-process": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Ulna.r",
+        "point": [
+          0.011786038,
+          0.085674592,
+          -0.031506076
+        ],
+        "direction": [
+          0.012939621,
+          0.955886849,
+          -0.293449993
+        ],
+        "side": "Right",
+        "sourceLabel": "Olecranon.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Ulna.l",
+        "point": [
+          0.011785995,
+          0.08567468,
+          -0.031506087
+        ],
+        "direction": [
+          0.012941469,
+          0.955886596,
+          -0.293450736
+        ],
+        "side": "Left",
+        "sourceLabel": "Olecranon.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Ulna.r",
+      "Ulna.l"
+    ]
+  },
+  "ulna-coronoid": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Ulna.r",
+        "point": [
+          0.007194047,
+          0.072514743,
+          0.000882875
+        ],
+        "direction": [
+          0.000888505,
+          0.508363749,
+          0.86114198
+        ],
+        "side": "Right",
+        "sourceLabel": "Coronoid process of ulna.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Ulna.l",
+        "point": [
+          0.007194044,
+          0.072514797,
+          0.000882873
+        ],
+        "direction": [
+          0.000887986,
+          0.508361986,
+          0.861143021
+        ],
+        "side": "Left",
+        "sourceLabel": "Coronoid process of ulna.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Ulna.r",
+      "Ulna.l"
+    ]
+  },
+  "trochlear-notch": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Ulna.r",
+        "point": [
+          0.008915174,
+          0.07179289,
+          -0.017883551
+        ],
+        "direction": [
+          0.00070873,
+          0.72783637,
+          0.685750477
+        ],
+        "side": "Right",
+        "sourceLabel": "Trochlear notch.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Ulna.l",
+        "point": [
+          0.008915171,
+          0.071792834,
+          -0.017883556
+        ],
+        "direction": [
+          0.000708846,
+          0.727837374,
+          0.685749411
+        ],
+        "side": "Left",
+        "sourceLabel": "Trochlear notch.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Ulna.r",
+      "Ulna.l"
+    ]
+  },
+  "ulna-head": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Ulna.r",
+        "point": [
+          -0.012748965,
+          -0.148934875,
+          0.036848787
+        ],
+        "direction": [
+          0.999913326,
+          0.013119553,
+          -0.001103531
+        ],
+        "side": "Right",
+        "sourceLabel": "Head of ulna.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Ulna.l",
+        "point": [
+          -0.01274899,
+          -0.148934836,
+          0.036848784
+        ],
+        "direction": [
+          0.999913376,
+          0.013115739,
+          -0.00110336
+        ],
+        "side": "Left",
+        "sourceLabel": "Head of ulna.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Ulna.r",
+      "Ulna.l"
+    ]
+  },
+  "ulna-styloid": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Ulna.r",
+        "point": [
+          -0.017060954,
+          -0.163581355,
+          0.035523178
+        ],
+        "direction": [
+          2.72e-06,
+          -0.999984546,
+          0.005559401
+        ],
+        "side": "Right",
+        "sourceLabel": "Ulnar styloid process.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Ulna.l",
+        "point": [
+          -0.017060797,
+          -0.163581304,
+          0.035523184
+        ],
+        "direction": [
+          -2.72e-06,
+          -0.999984548,
+          0.00555913
+        ],
+        "side": "Left",
+        "sourceLabel": "Ulnar styloid process.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Ulna.r",
+      "Ulna.l"
+    ]
+  },
+  "radius-head": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Radius.r",
+        "point": [
+          0.028102201,
+          0.117678998,
+          -0.025401811
+        ],
+        "direction": [
+          0.999160454,
+          0.028041625,
+          0.029867271
+        ],
+        "side": "Right",
+        "sourceLabel": "Head of radius.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Radius.l",
+        "point": [
+          0.028102168,
+          0.117678995,
+          -0.025401816
+        ],
+        "direction": [
+          0.999156312,
+          0.028110448,
+          0.029941066
+        ],
+        "side": "Left",
+        "sourceLabel": "Head of radius.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Radius.r",
+      "Radius.l"
+    ]
+  },
+  "radial-tuberosity": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Radius.r",
+        "point": [
+          0.013849694,
+          0.096837639,
+          -0.006238178
+        ],
+        "direction": [
+          0.000593294,
+          0.019966844,
+          0.999800467
+        ],
+        "side": "Right",
+        "sourceLabel": "Radial tuberosity.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Radius.l",
+        "point": [
+          0.013849712,
+          0.09683784,
+          -0.006238177
+        ],
+        "direction": [
+          -0.000584588,
+          0.019958489,
+          0.999800639
+        ],
+        "side": "Left",
+        "sourceLabel": "Radial tuberosity.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Radius.r",
+      "Radius.l"
+    ]
+  },
+  "radius-styloid": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Radius.r",
+        "point": [
+          -0.028702624,
+          -0.108596052,
+          0.023182276
+        ],
+        "direction": [
+          -0.001328986,
+          -0.999445984,
+          -0.033255969
+        ],
+        "side": "Right",
+        "sourceLabel": "Radial styloid process.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Radius.l",
+        "point": [
+          -0.028702615,
+          -0.108596101,
+          0.023182267
+        ],
+        "direction": [
+          0.001309915,
+          -0.999445993,
+          -0.03325646
+        ],
+        "side": "Left",
+        "sourceLabel": "Radial styloid process.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Radius.r",
+      "Radius.l"
+    ]
+  },
+  "acetabulum": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          0.008917771,
+          -0.02670885,
+          -0.002850126
+        ],
+        "direction": [
+          -0.999953371,
+          0.009656955,
+          -1.32e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Acetabulum.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          0.008917756,
+          -0.026709033,
+          -0.002850125
+        ],
+        "direction": [
+          -0.99995336,
+          0.009658093,
+          -1.44e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Acetabulum.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "obturator-foramen": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          0.025941029,
+          -0.063042283,
+          0.010915535
+        ],
+        "direction": [
+          0.0,
+          1.0,
+          -3.457e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Obturator foramen.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          0.025941025,
+          -0.063042402,
+          0.010915535
+        ],
+        "direction": [
+          0.0,
+          1.0,
+          -3.425e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Obturator foramen.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "ilium": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          -0.027627215,
+          0.05764594,
+          -0.005901977
+        ],
+        "direction": [
+          -0.701042812,
+          0.008331071,
+          -0.713070522
+        ],
+        "side": "Right",
+        "sourceLabel": "Ilium.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          -0.027627185,
+          0.057645946,
+          -0.005901975
+        ],
+        "direction": [
+          -0.701042802,
+          0.008330989,
+          -0.713070532
+        ],
+        "side": "Left",
+        "sourceLabel": "Ilium.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "iliac-crest": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          -0.05841174,
+          0.100945171,
+          0.018311926
+        ],
+        "direction": [
+          -0.521670703,
+          0.853146926,
+          -3.5e-08
+        ],
+        "side": "Right",
+        "sourceLabel": "Iliac crest.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          -0.05841174,
+          0.100945187,
+          0.018311925
+        ],
+        "direction": [
+          -0.521669634,
+          0.85314758,
+          -8e-09
+        ],
+        "side": "Left",
+        "sourceLabel": "Iliac crest.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "greater-sciatic-notch": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          0.004115969,
+          0.011442895,
+          -0.019119809
+        ],
+        "direction": [
+          0.669934309,
+          -0.249022004,
+          -0.699411226
+        ],
+        "side": "Right",
+        "sourceLabel": "Greater sciatic notch.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          0.004115961,
+          0.011443015,
+          -0.019119802
+        ],
+        "direction": [
+          0.669934034,
+          -0.249023986,
+          -0.699410783
+        ],
+        "side": "Left",
+        "sourceLabel": "Greater sciatic notch.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "ischium": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          0.011359172,
+          -0.093761622,
+          -0.035294101
+        ],
+        "direction": [
+          -0.99965951,
+          0.026093364,
+          -1.18e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Ischium.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          0.011359142,
+          -0.093761689,
+          -0.035294093
+        ],
+        "direction": [
+          -0.999659503,
+          0.026093637,
+          -2.43e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Ischium.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "ischial-tuberosity": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          -0.001437675,
+          -0.082578101,
+          -0.035312268
+        ],
+        "direction": [
+          -0.727738712,
+          0.011762784,
+          -0.685753603
+        ],
+        "side": "Right",
+        "sourceLabel": "Ischial tuberosity.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          -0.00143766,
+          -0.082578288,
+          -0.035312253
+        ],
+        "direction": [
+          -0.72773868,
+          0.011764652,
+          -0.685753605
+        ],
+        "side": "Left",
+        "sourceLabel": "Ischial tuberosity.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "pubis": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Hip bone.r",
+        "point": [
+          0.061431416,
+          -0.056959614,
+          0.052463968
+        ],
+        "direction": [
+          0.652841018,
+          0.017388595,
+          0.757295347
+        ],
+        "side": "Right",
+        "sourceLabel": "Pubis.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Hip bone.l",
+        "point": [
+          0.061431415,
+          -0.0569598,
+          0.052463969
+        ],
+        "direction": [
+          0.652840998,
+          0.017391124,
+          0.757295305
+        ],
+        "side": "Left",
+        "sourceLabel": "Pubis.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Hip bone.r",
+      "Hip bone.l"
+    ]
+  },
+  "femur-head": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          0.017571559,
+          0.22480562,
+          0.019280359
+        ],
+        "direction": [
+          2.074e-06,
+          1.0,
+          2.31e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Head of femur.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          0.017571552,
+          0.224805507,
+          0.019280353
+        ],
+        "direction": [
+          2.074e-06,
+          1.0,
+          4.69e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Head of femur.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "femur-neck": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          0.009350854,
+          0.176725931,
+          0.016686363
+        ],
+        "direction": [
+          0.999641165,
+          0.02678696,
+          1.71e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Neck of femur.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          0.009350854,
+          0.17672599,
+          0.016686363
+        ],
+        "direction": [
+          0.999641165,
+          0.026786954,
+          1.77e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Neck of femur.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "greater-trochanter": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          -0.053172023,
+          0.186100637,
+          0.004689144
+        ],
+        "direction": [
+          -0.999870416,
+          0.016098176,
+          3e-09
+        ],
+        "side": "Right",
+        "sourceLabel": "Greater trochanter.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          -0.053171994,
+          0.186100637,
+          0.004689143
+        ],
+        "direction": [
+          -0.999870416,
+          0.016098173,
+          7e-09
+        ],
+        "side": "Left",
+        "sourceLabel": "Greater trochanter.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "lesser-trochanter": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          0.002560696,
+          0.130164791,
+          -0.006521341
+        ],
+        "direction": [
+          0.70109967,
+          0.010775466,
+          -0.712981867
+        ],
+        "side": "Right",
+        "sourceLabel": "Lesser trochanter.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          0.0025607,
+          0.130164724,
+          -0.006521349
+        ],
+        "direction": [
+          0.701099755,
+          0.010775635,
+          -0.71298178
+        ],
+        "side": "Left",
+        "sourceLabel": "Lesser trochanter.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "gluteal-tuberosity": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          -0.022864247,
+          0.117872453,
+          -0.006583279
+        ],
+        "direction": [
+          0.425291889,
+          0.016233487,
+          -0.904910649
+        ],
+        "side": "Right",
+        "sourceLabel": "Gluteal tuberosity.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          -0.022864262,
+          0.117872386,
+          -0.006583282
+        ],
+        "direction": [
+          0.425291973,
+          0.016233702,
+          -0.904910606
+        ],
+        "side": "Left",
+        "sourceLabel": "Gluteal tuberosity.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "linea-aspera": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          -0.004477422,
+          0.000896976,
+          0.001618319
+        ],
+        "direction": [
+          2.977e-06,
+          0.017628425,
+          -0.999844607
+        ],
+        "side": "Right",
+        "sourceLabel": "Linea aspera.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          -0.004477414,
+          0.00089703,
+          0.001618313
+        ],
+        "direction": [
+          2.977e-06,
+          0.017628664,
+          -0.999844603
+        ],
+        "side": "Left",
+        "sourceLabel": "Linea aspera.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "femur-medial-condyle": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          0.040898427,
+          -0.222482106,
+          -0.028060033
+        ],
+        "direction": [
+          3.054e-06,
+          -1.0,
+          -2.603e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Medial condyle of femur.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          0.040898416,
+          -0.222482081,
+          -0.028060024
+        ],
+        "direction": [
+          3.054e-06,
+          -1.0,
+          -2.841e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Medial condyle of femur.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "femur-lateral-condyle": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Femur.r",
+        "point": [
+          -0.007853435,
+          -0.217837671,
+          -0.028136346
+        ],
+        "direction": [
+          4.73e-06,
+          -1.0,
+          -4.208e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Lateral condyle of femur.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Femur.l",
+        "point": [
+          -0.007853443,
+          -0.217837675,
+          -0.028136338
+        ],
+        "direction": [
+          4.73e-06,
+          -1.0,
+          -4.447e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Lateral condyle of femur.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Femur.r",
+      "Femur.l"
+    ]
+  },
+  "tibial-tuberosity": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Tibia.r",
+        "point": [
+          -0.013086542,
+          0.095206134,
+          0.038546023
+        ],
+        "direction": [
+          -1.214e-06,
+          0.028528801,
+          0.999592971
+        ],
+        "side": "Right",
+        "sourceLabel": "Tibial tuberosity.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Tibia.l",
+        "point": [
+          -0.013086528,
+          0.095206158,
+          0.038546023
+        ],
+        "direction": [
+          -1.214e-06,
+          0.028529069,
+          0.999592963
+        ],
+        "side": "Left",
+        "sourceLabel": "Tibial tuberosity.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Tibia.r",
+      "Tibia.l"
+    ]
+  },
+  "medial-malleolus": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Tibia.r",
+        "point": [
+          0.0290754,
+          -0.213161977,
+          -0.003072307
+        ],
+        "direction": [
+          0.999974496,
+          0.007141903,
+          1.669e-06
+        ],
+        "side": "Right",
+        "sourceLabel": "Medial malleolus.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Tibia.l",
+        "point": [
+          0.029075402,
+          -0.213161985,
+          -0.003072304
+        ],
+        "direction": [
+          0.999974496,
+          0.007141903,
+          1.586e-06
+        ],
+        "side": "Left",
+        "sourceLabel": "Medial malleolus.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Tibia.r",
+      "Tibia.l"
+    ]
+  },
+  "fibula-head": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Fibula.r",
+        "point": [
+          -0.018571109,
+          0.143246664,
+          0.006333294
+        ],
+        "direction": [
+          -0.99974298,
+          0.022670999,
+          -1.79e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Head of fibula.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Fibula.l",
+        "point": [
+          -0.018571109,
+          0.143246589,
+          0.006333292
+        ],
+        "direction": [
+          -0.999742933,
+          0.022673086,
+          -2.31e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Head of fibula.s",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      }
+    ],
+    "nodes": [
+      "Fibula.r",
+      "Fibula.l"
+    ]
+  },
+  "lateral-malleolus": {
+    "type": "landmark",
+    "anchors": [
+      {
+        "node": "Fibula.r",
+        "point": [
+          -0.002225168,
+          -0.186594773,
+          -0.003035174
+        ],
+        "direction": [
+          -0.999949936,
+          0.010006294,
+          -1.43e-07
+        ],
+        "side": "Right",
+        "sourceLabel": "Lateral malleolus.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm"
+      },
+      {
+        "node": "Fibula.l",
+        "point": [
+          -0.002225168,
+          -0.186594773,
+          -0.003035174
+        ],
+        "direction": [
+          -0.999949936,
+          0.010006294,
+          -1.43e-07
+        ],
+        "side": "Left",
+        "sourceLabel": "Lateral malleolus.t",
+        "method": "authored leader endpoint; source bone bounds matched within 0.15 mm; transferred to identical shared mesh instance"
+      }
+    ],
+    "nodes": [
+      "Fibula.r",
+      "Fibula.l"
+    ]
+  },
+  "sagittal-suture": {
+    "type": "reference",
+    "nodes": [
+      "Parietal bone.l",
+      "Parietal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "coronal-suture": {
+    "type": "reference",
+    "nodes": [
+      "Frontal bone",
+      "Parietal bone.l",
+      "Parietal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "lambdoid-suture": {
+    "type": "reference",
+    "nodes": [
+      "Occipital bone",
+      "Parietal bone.l",
+      "Parietal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "squamous-suture": {
+    "type": "reference",
+    "nodes": [
+      "Parietal bone.l",
+      "Parietal bone.r",
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "zygomatic-process": {
+    "type": "reference",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "zygomatic-arch": {
+    "type": "reference",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r",
+      "Zygomatic bone.l",
+      "Zygomatic bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "mandibular-fossa": {
+    "type": "reference",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "external-auditory-meatus": {
+    "type": "reference",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "carotid-canal": {
+    "type": "reference",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "jugular-foramen": {
+    "type": "reference",
+    "nodes": [
+      "Occipital bone",
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "internal-auditory-meatus": {
+    "type": "reference",
+    "nodes": [
+      "Temporal bone.l",
+      "Temporal bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "cribriform-plate": {
+    "type": "reference",
+    "nodes": [
+      "Ethmoid bone"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "mandible-coronoid": {
+    "type": "reference",
+    "nodes": [
+      "Mandible"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "sacroiliac-joints": {
+    "type": "reference",
+    "nodes": [
+      "Sacrum",
+      "Hip bone.l",
+      "Hip bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "pubic-symphysis": {
+    "type": "reference",
+    "nodes": [
+      "Hip bone.l",
+      "Hip bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  },
+  "pubic-arch": {
+    "type": "reference",
+    "nodes": [
+      "Hip bone.l",
+      "Hip bone.r"
+    ],
+    "reason": "No checked source landmark or separate mesh is included for this structure. The 3D view shows its associated bones; use the lab reference for the exact marking."
+  }
+}
