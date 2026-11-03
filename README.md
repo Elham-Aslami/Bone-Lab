@@ -6,12 +6,6 @@ An exam-focused browser app with an interactive anatomical skeleton, 104 study c
 
 Start with [TEST-BEFORE-DEPLOYING.md](TEST-BEFORE-DEPLOYING.md). The updated Explore viewer preserves rotation, zoom, and pan when a new structure is selected. Use **Focus** to center it without changing the angle, or **Use suggested angle** to request a recommended anatomical view. Your Explore view is restored after visiting another tab.
 
-## Publish on GitHub Pages
-
-Follow [GITHUB-PAGES-SETUP.md](GITHUB-PAGES-SETUP.md). Upload the extracted package contents to your repository, including `.github/` and `dist/`. Set **Settings → Pages → Source** to **GitHub Actions**, then run the included **Publish Bone Lab** workflow. It publishes `dist/` directly, with no dependency installation or build step. Subsequent commits to `main` publish automatically.
-
-Export your progress from the old app and import it on the new website to carry your study history across. Browser storage is separate for different website addresses.
-
 ## Run on your device
 
 1. Extract the downloaded ZIP into a folder.
@@ -46,10 +40,6 @@ Ilium, ischium, and pubis have anatomical pins but remain part of the fused adul
 Pins identify points rather than outlining an entire marking. Find-the-structure grading uses a small neighborhood around each source pin, with a 2.5–9 mm world-space tolerance according to parent-bone size. The model view is automatically aimed along the original label leader direction. A pin can be visible through a bone when the view is rotated; use the surrounding geometry and the source reference to interpret it.
 
 ## Data and sources
-
-The exact study scope comes from the supplied Bone List for Practical Exam(2).docx. Descriptions use the supplied 61-page Unit 8 lab PDF; page links refer to the PDF page number, not printed textbook pagination. The attached practical guide provides context.
-
-Known source inconsistencies and supplemental references appear under Sources & model credits → Reference clarifications, and in `dist/data/research-notes.json`.
 
 Model attribution required by the source:
 
@@ -87,6 +77,3 @@ The supplied class PDFs and DOCX are included for personal study and retain thei
 - `GITHUB-PAGES-SETUP.md`: upload, publishing, and troubleshooting instructions.
 - `package-github.py`: refreshes `dist/Bone-Lab-Source.zip` and creates `exports/Bone-Lab-GitHub.zip` using Python 3.
 
-## Validation limits
-
-Checklist coverage, mesh-name references, landmark coordinate transfer, source page ranges, answer grading, and progress-import normalization were checked. Source-mesh diagrams were inspected for landmark placement. Camera preservation, focus, presets, drag inertia, Explore restoration, reset routing, and click/drag handling passed tests using bundled Three.js and OrbitControls. Dark/light switching, saved preferences, and the updated selection controls were checked in the browser. This browser environment has WebGL disabled, so 3D rendering and softer lighting could not be visually checked here. If 3D initialization fails, study cards and text recall remain available.
